@@ -34,5 +34,5 @@ The narrative moves from possessed first person into initial estrangement.
 
 ## Boundary Question
 
-The next structural decision is whether Calvin’s capture closes Part One or whether the part continues through the boys’ decision to search for him and their arrival in BabyLondon.
+Chapter 3 continues directly from Calvin's capture through the Sourceress's first sustained exploration of him and her administrator powers. She learns his emotional triggers and uses them to lure Ethan, Everett and Rahma into BabyLondon. Whether their arrival closes Part One or the boundary falls later remains open.
 

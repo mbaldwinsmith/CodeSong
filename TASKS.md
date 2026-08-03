@@ -72,9 +72,9 @@
 
 ## Immediate Priority
 
-1. Human review of this documentation pass.
-2. Resolve only the questions required to plan Chapter 3.
-3. Build a short beat sheet for Chapter 3 before drafting prose.
+1. Human review of the Chapter 3 plan.
+2. Resolve only the remaining questions required to draft Chapter 3.
+3. Draft Chapter 3 only after explicit human-author approval.
 
 Do not draft Chapter 3 until the human author explicitly requests it.
 
