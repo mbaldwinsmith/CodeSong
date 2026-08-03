@@ -175,3 +175,13 @@ This document records accepted creative and process decisions so that agents do 
 
 **Related files:** `STRUCTURE.md`, `outline/README.md`.
 
+### D-017: Chapter 1 forensic override
+
+**Status:** Accepted
+
+**Decision:** Calvin’s `AUTHORITY: OBSERVATION` describes his ordinary local role inside BabyLondon, while his central administrator status retains a narrow forensic override. His initial thought-code suspension of the style layer is legitimate. The square restoring itself after four seconds, and the audit attributing that unauthorised action to Calvin, constitute the first permissions breach.
+
+**Consequences:** The access displays need not be treated as unreliable before this moment. Calvin genuinely demonstrates an authorised procedure; the Sourceress then learns from it and causes the system to misattribute what follows.
+
+**Related files:** `chapters/01-anomaly.md`, `world/permissions-and-admin-rights.md`, `reviews/continuity.md`.
+
