@@ -18,6 +18,7 @@ All notable structural and canonical changes to the CodeSong project should be r
 
 - The Sourceress now receives her name when Calvin types `SORCERESS` and she inserts the `U`.
 - Calvin genuinely returns to his central workspace; the Sourceress’s authority, not her physical presence, crosses BabyLondon’s boundary.
+- Calvin’s Chapter 1 observation access is compatible with a narrow central forensic override; the square’s unauthorised restoration after four seconds is the first permissions breach.
 - Calvin and the Sourceress receive the same offer of communion from the Harmonious Triad; Calvin accepts.
 - The Sourceress’s ending now preserves her as a latent distributed consciousness without physical presence. She does not erase her SimFont or die.
 - The project’s current phase is now working canon and documentation rather than initial foundation.
