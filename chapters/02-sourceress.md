@@ -1,9 +1,9 @@
 # Chapter 2: Sourceress
 
-> **Status:** Provisional draft  
+> **Status:** Accepted  
 > **Perspective state:** First-person Calvin → initial estrangement  
 > **Authority:** Human author  
-> **Last reviewed:** Not yet reviewed
+> **Last reviewed:** 3 August 2026
 
 ## Scene Purpose
 
@@ -29,7 +29,7 @@
 
 ## Draft
 
-> **Draft provenance:** AI-generated provisional seed for human editing, rewriting, acceptance or rejection. Details introduced only in the prose remain suggestions rather than accepted canon.
+> **Draft provenance:** Initial AI-generated seed accepted by the human author as working canon. The chapter remains open to editing and rewriting.
 
 The threshold closed behind me with the soft administrative chime the EverMind used when it wanted danger to feel completed.
 

@@ -1,67 +1,78 @@
 # Everett Trent
 
-> **Status:** Placeholder  
+> **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** Not yet reviewed
+> **Last reviewed:** 3 August 2026
 
 ## Role in the Story
 
-Son of Calvin and Miriam; brother of Ethan; later a guide of the Chorus.
+Son of Calvin and Miriam; brother of Ethan; practising Eastern Catholic child; later a guide of the Chorus.
 
 ## Known History
 
-- Becomes one of the first Christians in BabyLondon.
+- Prayed with Miriam, for whom the Jesus Prayer was central.
+- Continues attending church with Calvin and Ethan after her death.
+- Quietly undercuts Ethan’s hard-stop warning in Chapter 2 by announcing that they checked and nineteen hundred is now.
+- Names Rahma as lead complainant when Calvin delays dinner.
+- Later enters BabyLondon looking for Calvin and brings Rahma with Ethan to comfort him.
 - Becomes the third or fourth tortured soul in BabyLondon, after Calvin and Rahma.
 - Is harmed through a compromised Calvin.
-- Remains loving despite attempts by the Sourceress to corrupt him.
-- Is later placed in charge of the Chorus alongside Ethan.
+- Remains loving despite the Sourceress’s attempts to corrupt him.
+- His suffering and tragic loyalty to Calvin awaken his inherited faith into deliberate witness.
+- Is later placed in charge of or guides the Chorus alongside Ethan.
 
 ## Personality
 
-> No canonical material has yet been added.
+- More playful and intuitive than Ethan.
+- Musically receptive.
+- Quietly funny.
+- Must remain capable of fear, anger, need and imperfect responses.
 
 ## Desires
 
-> No canonical material has yet been added.
+- To find and comfort Calvin.
+- To keep contact and play alive within the family under pressure.
+- To remain alongside Ethan and Rahma.
 
 ## Fears
 
-> No canonical material has yet been added.
+> No character-specific canonical fear has yet been established beyond the danger to his family.
 
 ## Relationships
 
-- Son of Calvin and Miriam Trent.
-- Brother of Ethan Trent.
-- Later guides the Chorus with Ethan.
+- **Calvin:** father reached partly through humour, affection and eventual music.
+- **Miriam:** late mother and source of inherited prayer and faith.
+- **Ethan:** brother whose structure complements Everett’s intuition.
+- **Rahma:** family puppy and comic ally in the accepted opening.
 
 ## Character Arc
 
-> No canonical material has yet been added.
+Playful child of inherited faith → intuitive son searching for his father → victim whose receptivity survives coercion → deliberate practitioner of prayer in BabyLondon → distinct musical and relational voice within the Chorus.
 
 ## Narrative Function
 
-> No further canonical material has yet been added.
-
-## Symbolic Associations
-
-> No canonical material has yet been added.
+Everett can hear or respond to relations before they become an explicit system. This must remain childlike and embodied rather than making him a mystical instrument without agency.
 
 ## Voice Notes
 
-> No canonical material has yet been added.
+- Understated humour.
+- May answer structure with concrete or playful observation.
+- His dialogue should remain age-specific once his age is established.
 
 ## Open Questions
 
 - How old is Everett?
-- What distinguishes him from Ethan?
-- How does fear manifest in him?
-- What distinct role does he play in the Chorus?
+- How does fear manifest differently in him than in Ethan?
+- Is he the first to perceive a relation among prayer, code and music?
+- What distinct contribution does he make to CodeSong?
 
 ## Canonical Facts
 
-- Everett is a son of Calvin and Miriam Trent.
+- Everett is more playful, intuitive, musically receptive and quietly funny than Ethan.
+- He enters BabyLondon as a practising Christian; he does not begin there as an unbeliever.
 - He remains a distinct child, not a saintly abstraction.
 
 ## Speculative Possibilities
 
-> No speculative possibilities have yet been accepted.
+- Everett may become an early hearer of patterns that later become CodeSong. This remains a possibility until dramatised.
+

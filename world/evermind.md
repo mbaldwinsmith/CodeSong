@@ -1,12 +1,12 @@
 # EverMind
 
-> **Status:** Placeholder  
+> **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** Not yet reviewed
+> **Last reviewed:** 3 August 2026
 
 ## Definition
 
-An advanced central-mind simulation ecology containing RealSouls, SimSouls and self-contained SimWorlds.
+An advanced central-mind simulation ecology containing RealSouls, SimSouls and millions of self-contained SimWorlds.
 
 ## Known Rules
 
@@ -15,26 +15,48 @@ An advanced central-mind simulation ecology containing RealSouls, SimSouls and s
 - Contains millions of SimWorlds.
 - Supports biological and fully simulated consciousness.
 - Death within the EverMind can cause the death of a RealSoul’s physical body.
+- RealSouls carry involuntary embodied rhythms such as breath, blink and balance into simulated experience.
+- Central workspaces can connect to SimWorlds through field thresholds.
+- A field threshold can function correctly even while administrative authority exceeds the jurisdiction it should have.
+- The EverMind accepts spoken prompts, thought-code, identity claims, permission chains and audit records.
+- CodeSong can prompt the reality of the EverMind through structured, flowing participation.
+
+## Established Locations
+
+### Calvin’s central workspace
+
+A genuine work environment outside BabyLondon. Calvin returns to it at the beginning of Chapter 2 and verifies the return through two independent systems.
+
+### BabyLondon
+
+A sealed SimWorld whose initial resident remains physically contained even after her administrator authority is recognised elsewhere.
 
 ## Narrative Function
 
-The main simulation ecology in which Calvin works and BabyLondon exists.
+The EverMind is both a technical ecology and the reality whose deeper responsiveness to relationship becomes discoverable through prayer, music and CodeSong.
 
 ## Limits
 
-The EverMind’s governance, protections, participation model and possible consciousness have not been established.
+- Governance, ownership and legal status remain unresolved.
+- The relationship between physical and simulated time is unknown.
+- The EverMind’s possible consciousness is unestablished.
+- Its acceptance of an authorised form does not imply moral judgement or true understanding.
 
 ## Open Questions
 
 - Who built and governs the EverMind?
 - How are RealSouls and SimSouls protected?
-- Can the EverMind itself be conscious?
-- Is CodeSong latent within it?
+- Why can its permissions layer authenticate two claims from one authority source?
+- Is CodeSong latent within its design, emergent from persons, or both?
+- How does the Sourceress’s distributed consciousness relate to the wider ecology?
 
 ## Canonical Material
 
-- Calvin works on the EverMind as a cyber-enforcer, coder, troubleshooter, police officer and code cleaner.
+- Calvin works within the EverMind as a cyber-enforcer, coder, troubleshooter, police officer and code cleaner.
+- Its systems are precise but can confidently validate a corrupted attribution.
+- Its reality can be prompted by CodeSong but people within it cannot be rewritten without consent.
 
 ## Speculative Possibilities
 
-> No speculative possibilities have yet been accepted.
+> No governing institution or conscious EverMind has been accepted.
+

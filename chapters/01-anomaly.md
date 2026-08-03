@@ -1,9 +1,9 @@
 # Chapter 1: Anomaly
 
-> **Status:** Provisional draft  
+> **Status:** Accepted  
 > **Perspective state:** First-person Calvin  
 > **Authority:** Human author  
-> **Last reviewed:** Not yet reviewed
+> **Last reviewed:** 3 August 2026
 
 ## Scene Purpose
 
@@ -39,7 +39,7 @@ This line is provisional and may be replaced.
 
 ## Draft
 
-> **Draft provenance:** AI-generated provisional seed for human editing, rewriting, acceptance or rejection. Details introduced only in the prose remain suggestions rather than accepted canon.
+> **Draft provenance:** Initial AI-generated seed accepted by the human author as working canon. The chapter remains open to editing and rewriting.
 
 The first thing BabyLondon sent us was a scream formatted as an advertisement.
 

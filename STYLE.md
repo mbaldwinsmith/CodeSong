@@ -1,8 +1,8 @@
 # Style
 
-> **Status:** Provisional  
+> **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** Not yet reviewed
+> **Last reviewed:** 3 August 2026
 
 ## General Mode
 
@@ -13,31 +13,71 @@ The prose should combine:
 - mythic and symbolic depth;
 - controlled formal experimentation;
 - emotional restraint during the most painful scenes;
+- humour rooted in character and procedure;
 - beauty that emerges through concrete experience rather than explanation.
 
 ## Calvin’s Initial Voice
 
-The novel begins in Calvin’s first-person perspective.
+Calvin begins as a stereotypically cynical cop investigator made specific by his setting and grief.
 
-His early voice should be:
+His early voice is:
 
-- competent;
-- observant;
-- technically precise;
-- dryly humane;
-- procedurally controlled;
-- capable of understated wit;
-- shaped by his work as an investigator and code cleaner.
+- first person;
+- observant and technically precise;
+- highly capable with spoken code and thought-code;
+- alert to procedural details and evidential chains;
+- dryly humorous, including when irritated or afraid;
+- sceptical without being incurious;
+- quietly compassionate beneath professional restraint;
+- inclined to translate danger into a vocabulary of procedure.
+
+He does not consciously dwell on Miriam while working. His guilt, unbelief and sense of paternal inadequacy remain beneath the surface until memory fragments and interactions with Rahma, Ethan and Everett bring them forward.
+
+## Established Calibration
+
+Chapters 1 and 2 establish the preferred balance as funny, engaging and creepy. Preserve that mixture while the story can still support it. Humour should thin rather than disappear as Calvin loses control.
+
+The reader may infer danger before Calvin understands it, but the narration does not become omniscient. Calvin remains intelligent and perceptive. His error is an incomplete model of an unprecedented threat, not stupidity.
 
 ## Narrative Evolution
 
-The perspective should evolve through three broad movements:
+The perspective moves through:
 
-1. First-person control
-2. Fractured and dissociated narration
-3. Polyphonic choral narration
+1. controlled first person;
+2. involuntary third-person intrusion;
+3. fractured but legible mixed modes;
+4. ambiguous plural language;
+5. coherent polyphony;
+6. a recovered first person capable of participating in the Chorus.
 
 Consult `NARRATIVE-SYSTEM.md` for detailed rules.
+
+## Current Formatting Conventions
+
+- System output and multi-line administrative records use fenced code blocks.
+- Short broadcasts, interface labels and messages may use inline code.
+- Sourceress broadcasts use capitals but should vary in length and rhythm rather than becoming typographic noise.
+- Thought-code is italicised when it remains an interior prompt.
+- Spoken code appears as dialogue followed by the system response.
+- Prayer must remain recognisably human and relational. It should not be formatted as system code unless a scene deliberately stages that collision.
+- The exact layout of sustained prayer and later CodeSong remains open until their first scenes are drafted.
+
+## Religious Material
+
+The theology is incarnational and largely self-evident through what prayer and song do.
+
+Christian language should emerge through:
+
+- the Jesus Prayer;
+- remembered practice;
+- churchgoing;
+- conduct;
+- relationship;
+- mercy;
+- lament;
+- resistance to inherited hatred.
+
+Avoid theological exposition and explicit argument. Do not make Calvin’s unbelief a device for delivering apologetics.
 
 ## Restraint
 
@@ -51,14 +91,15 @@ Avoid:
 - using suffering as spectacle;
 - false profundity;
 - perfect rhetorical symmetry;
-- generic cyberpunk terminology where project-specific language would be stronger;
+- generic cyberpunk terminology where project-specific language is stronger;
 - treating the boys as saintly abstractions rather than children;
 - treating the Sourceress as either purely innocent or purely monstrous;
+- converting her final choice into repentance;
 - resolving every ambiguity.
 
 ## AI-Writing Warnings
 
-Agents should specifically check for:
+Check for:
 
 - repetitive sentence structures;
 - excessive three-item lists;
@@ -67,30 +108,12 @@ Agents should specifically check for:
 - overuse of em dashes;
 - excessive thematic restatement;
 - dialogue in which every character speaks with equal eloquence;
-- polished prose that lacks sensory or emotional specificity.
+- polished prose that lacks sensory or emotional specificity;
+- explanatory sentences that merely decode the preceding image.
 
 ## Trauma
 
-Scenes involving coercion, torture or harm must prioritise:
-
-- subjective consequence;
-- moral complexity;
-- character relationship;
-- implication over repetition;
-- the dignity of victims;
-- the limits of Calvin’s perception.
+Scenes involving coercion, torture or harm must prioritise subjective consequence, moral complexity, character relationship, implication, victim dignity and the limits of Calvin’s perception.
 
 Pain must not be escalated merely to intensify the reader’s reaction.
 
-## Religious Material
-
-Christian language should first emerge through:
-
-- remembered practice;
-- prayer;
-- conduct;
-- relationship;
-- mercy;
-- resistance to inherited hatred.
-
-The story should avoid becoming a disguised theological lecture.
