@@ -13,9 +13,11 @@ Administrator rights are authenticated permissions used by Calvin in his EverMin
 ### Chapter 1
 
 - Calvin requests observation access under a masked identity and enters under operational-minimum authority.
-- He suspends a local style layer with thought-code.
-- The Sourceress studies the result and reproduces a related edit.
-- The audit attributes her edit to the world owner.
+- `AUTHORITY: OBSERVATION` describes his ordinary local role; his central administrator status retains a narrow forensic override.
+- His initial thought-code suspension of the local style layer is legitimate.
+- The square restores itself after four seconds rather than the commanded thirty, and the audit attributes that unauthorised restoration to Calvin. This is the first permissions breach.
+- The Sourceress studies the procedure and reproduces a related edit.
+- The audit attributes her handprint edit to the world owner.
 - An administrator pane appears without Calvin opening it, but the system reports only his granted access.
 
 ### Chapter 2
