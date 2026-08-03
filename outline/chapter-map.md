@@ -13,4 +13,4 @@ Only drafted chapters receive chapter numbers. Later accepted beats remain in th
 
 ## Next Chapter
 
-Chapter 3 has not been planned or drafted. Its first decision is whether it begins continuously with Calvin’s stopped hand or after a controlled discontinuity.
+Chapter 3 is planned but has not been drafted. It begins continuously with Calvin's stopped hand, follows the Sourceress's childlike interrogation and experimentation as she explores Calvin and her new powers, and ends when her lure brings Ethan, Everett and Rahma into BabyLondon. See [Chapter 3 plan](chapter-3-plan.md).
