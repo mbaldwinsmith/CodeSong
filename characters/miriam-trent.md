@@ -1,26 +1,30 @@
 # Miriam Trent, née Zoanna
 
-> **Status:** Placeholder  
+> **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** Not yet reviewed
+> **Last reviewed:** 3 August 2026
 
 ## Role in the Story
 
-Calvin’s late wife and the mother of Ethan and Everett; a continuing source of life and grace through memory, love, prayer and family habits.
+Calvin’s late wife and the mother of Ethan and Everett; a continuing source of life and grace through memory, prayer, family practice and Rahma.
 
 ## Known History
 
-- Dies of cancer before the main events of the story.
-- Buys Rahma after learning that her illness is terminal.
-- Intends Rahma to remain with and comfort the family after her death.
+- Was Eastern Catholic.
+- Made the Jesus Prayer central to her practice with Ethan and Everett.
+- Prayed with the boys before her death.
+- Died of cancer before the main events of the story.
+- Bought or adopted Rahma after learning that her illness was terminal.
+- Intended Rahma to remain with and comfort the family after her death.
+- Is honoured by Calvin’s continuing decision to take the boys to church despite his unbelief.
 
 ## Personality
 
-> No canonical material has yet been added.
+> No fuller canonical personality has yet been established. Her faith must not substitute for individual character.
 
 ## Desires
 
-- To leave life, comfort and companionship with her family through Rahma.
+- To leave life, comfort, companionship and sustaining practice with her family.
 
 ## Fears
 
@@ -28,37 +32,43 @@ Calvin’s late wife and the mother of Ethan and Everett; a continuing source of
 
 ## Relationships
 
-- Wife of Calvin Trent.
-- Mother of Ethan and Everett Trent.
-- Brings Rahma into the family.
+- **Calvin:** husband who loves her, quietly blames himself for her death and continues aspects of family practice in her honour.
+- **Ethan and Everett:** sons whose inherited prayer becomes active faith in BabyLondon.
+- **Rahma:** living gift and source of companionship left with the family.
 
 ## Character Arc
 
-> No canonical material has yet been added.
+Miriam dies before the main action. Her narrative movement is one of delayed disclosure: absence becomes increasingly present through memory fragments, prayer, gestures, Rahma and the boys’ actions.
 
 ## Narrative Function
 
-Miriam remains present through memory, love, prayer, habits and remembered words.
+- Keeps mortal memory more present than BabyLondon’s copied celebrities.
+- Connects prayer, motherhood, grief and song without becoming an explanatory apparition.
+- Gives the boys a faith they can freely inhabit rather than a doctrine invented by suffering.
 
 ## Symbolic Associations
 
-> Name associations and other interpretations remain suggestive rather than definitive.
+Her names may evoke Mary, memory, grief, witness, discipleship and song. These associations remain suggestive rather than definitive.
 
 ## Voice Notes
 
-> No canonical material has yet been added.
+Her voice should first emerge through remembered words or prayer in a concrete relational context. Exact diction has not yet been established.
 
 ## Open Questions
 
-- Was Miriam Christian?
-- What prayers, sayings, habits or rituals did she leave with the family?
-- Can the EverMind simulate Miriam, and would such a simulation be her?
+- Which Eastern Catholic church or tradition shaped her local practice, if specificity becomes narratively relevant?
+- What exact version or rhythm of the Jesus Prayer did she teach the boys?
+- What is the first memory fragment in which she appears?
+- How can her life be rendered beyond her illness and influence on others?
+- Can BabyLondon simulate her, and would Calvin be tempted by such a reconstruction?
 
 ## Canonical Facts
 
-- Miriam died of cancer.
-- She was a source of life and grace for her family.
+- Miriam was Eastern Catholic.
+- The Jesus Prayer was central to her prayer with the boys.
+- She died of cancer and remains a source of life and grace for the family.
 
 ## Speculative Possibilities
 
-> No speculative possibilities have yet been accepted.
+> No additional possibility should be promoted until Miriam appears in a drafted memory or scene.
+

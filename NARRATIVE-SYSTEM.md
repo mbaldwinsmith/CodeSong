@@ -1,116 +1,99 @@
 # Narrative System
 
-> **Status:** Provisional  
+> **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** Not yet reviewed
+> **Last reviewed:** 3 August 2026
 
 ## Purpose
 
-The narrative perspective changes as Calvin’s agency is compromised and as the Chorus emerges.
-
-These changes are structural and meaningful. They are not decorative experimentation.
+The narrative perspective changes as Calvin’s agency is compromised and as the Chorus emerges. These changes enact the story’s movement from isolated control through fragmentation towards communion. They are not decorative experimentation.
 
 ## Narrative States
 
 ### State 1: Possessed Self
 
-Primary pronoun: `I`
+**Primary pronoun:** `I`  
+**Established location:** Chapter 1 and almost all of Chapter 2
 
-Meaning:
-
-- Calvin experiences himself as an acting subject.
-- He believes he understands his role and environment.
-- His body, perception and narration appear unified.
+Calvin experiences himself as an acting subject. Body, perception, intention and narration appear unified. His professional competence gives the prose a stable evidential frame.
 
 ### State 2: Initial Estrangement
 
-Primary pronouns: `I` and `he`
-
-Meaning:
-
-- Third-person references begin to intrude around Calvin’s body.
-- Calvin may attempt to correct the narration.
-- The reader should initially be uncertain whether the shift is stylistic, psychological or technological.
-
-Example pattern:
+**Primary pronouns:** `I` and involuntary `he`  
+**First occurrence:** Final lines of Chapter 2
 
 > I reached for the disconnect.  
 > Calvin’s hand stopped.  
 > My hand stopped.
 
+Third person first intrudes around bodily action. Calvin remains capable of recognising the estrangement, but cannot immediately restore control by naming it.
+
 ### State 3: Compromised Self
 
-Primary modes:
+**Planned modes:**
 
 - third-person prose;
 - first-person fragments;
 - system code;
 - commands;
 - Sourceress broadcasts;
-- prayers;
-- dialogue;
-- memory fragments.
+- the boys’ dialogue and prayers;
+- memory fragments of Miriam.
 
-Meaning:
-
-- Calvin no longer experiences his body, actions and identity as fully unified.
-- First person survives most strongly in love, memory, resistance and witness.
-- The text may become disjointed but must remain narratively legible.
+Calvin no longer experiences action, intention and identity as fully unified. First person survives most strongly in love, memory, resistance and witness. The exact degree of the Sourceress’s control remains a scene-level question and must not be flattened into a single mechanism.
 
 ### State 4: Ambiguous Plural
 
-Primary pronoun: `we`
+**Primary pronoun:** `we`
 
-Meaning:
-
-- The first uses of “we” may imply possession, assimilation or system capture.
-- The origin of the plural voice may be deliberately unclear.
+Early plural language may imply possession, imposed classification or threatened assimilation. Its source may be deliberately unclear, but immediate action must remain legible.
 
 ### State 5: Chorus
 
-Primary mode: coherent polyphony
+**Primary mode:** coherent polyphony
 
-Meaning:
-
-- Distinct voices coexist without being erased.
-- The narration becomes more intelligible as more voices participate.
-- Communion produces clarity rather than homogeneity.
+Distinct voices become simultaneously intelligible without becoming interchangeable. More participation produces greater clarity. CodeSong may combine prayer, speech, song and code, but its page-level form remains to be discovered in prose.
 
 ### State 6: Recovered First Person
 
-Primary pronoun: `I`
+**Primary pronoun:** `I`
 
-Meaning:
-
-- Calvin recovers first person without denying what occurred through his body.
-- Recovery must not depend on claiming complete innocence or returning unchanged to his former identity.
+Calvin breaks down and accepts the Triad’s offer of belonging, healing with time, contribution and communion. His recovered first person does not deny what happened through his body, claim total innocence or return him unchanged to his former identity.
 
 ## Textual Modes
 
-| Mode | Function |
-|---|---|
-| First-person prose | Calvin’s experienced subjectivity |
-| Third-person prose | Dissociation, bodily estrangement or external control |
-| Second person | Intrusion, accusation or imposed identity |
-| Early “we” | Threatened assimilation |
-| Choral “we” | Communion among distinct persons |
-| Code lines | EverMind processes and reductive system interpretation |
-| Commands | Imposed action or permission structures |
-| Capitalised broadcasts | Sourceress transmissions |
-| Prayer | Relational continuity and rhythmic resistance |
-| CodeSong | Participatory creation through coordinated difference |
+| Mode | Function | Current convention |
+|---|---|---|
+| First-person prose | Calvin’s experienced subjectivity | Standard prose |
+| Third-person Calvin | Bodily estrangement or dissociation | Intrudes without an explanatory label |
+| Second person | Intrusion, accusation or imposed identity | Use sparingly |
+| Early `we` | Threatened assimilation | Source may be ambiguous |
+| Choral `we` | Communion among distinct persons | Must retain distinguishable voices |
+| Code lines | EverMind processes and reductive interpretation | Fenced code block |
+| Thought-code | Calvin’s skilled interior prompting | Italics |
+| Spoken commands | Evidential and administrative action | Dialogue plus response |
+| Capitalised broadcasts | Sourceress transmissions | Inline code or fenced block |
+| Prayer | Relational continuity and rhythmic resistance | Human language, exact layout unresolved |
+| CodeSong | Participatory creation through coordinated difference | To be discovered in its first full scene |
+
+## Epistemic Rule
+
+The narrative remains limited to available perception. The Sourceress receives no explanatory viewpoint merely to disclose her plan. Calvin can explain procedures he knows, but novel phenomena remain inferred from observable effects.
 
 ## Legibility Rule
 
-Formal fragmentation must deepen the reader’s experience without making basic event sequence impossible to follow.
-
-At every point, the reader should normally be able to determine:
+Formal fragmentation must deepen the reader’s experience without making the basic event sequence impossible to follow. The reader should normally be able to determine:
 
 - where the scene is taking place;
 - who is physically present;
 - what immediate danger or desire governs the scene;
 - which uncertainty is intentional.
 
+## Protected Mystery Rule
+
+Fragmentation may show the effects of RealSoul ingress, authority copying and CodeSong without exposing their deepest mechanisms. Formal clarity does not require metaphysical explanation.
+
 ## Change Control
 
 Any major change to this system must be recorded in `DECISIONS.md`.
+

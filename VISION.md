@@ -2,7 +2,7 @@
 
 > **Status:** Provisional  
 > **Authority:** Human author  
-> **Last reviewed:** Not yet reviewed
+> **Last reviewed:** 3 August 2026
 
 ## Core Statement
 
@@ -18,8 +18,6 @@ Is reality ultimately governed by executable power, or brought to fullness throu
 
 ## Central Contrast
 
-The story contrasts two modes of creation:
-
 ### Command
 
 - control;
@@ -33,6 +31,7 @@ The story contrasts two modes of creation:
 ### Harmony
 
 - attention;
+- consent;
 - participation;
 - relationship;
 - distinct voices;
@@ -46,35 +45,46 @@ The narrative should move through:
 
 > authority → capture → fragmentation → witness → harmony → chorus
 
-The story’s form should participate in this movement.
+The story’s form should participate in this movement. It begins in Calvin’s first-person voice, becomes increasingly fractured as his agency is compromised, and eventually develops into a coherent plurality of voices.
 
-It begins in Calvin’s first-person voice, becomes increasingly fractured as his agency is compromised, and eventually develops into a coherent plurality of voices.
+## Incarnational Theology
+
+The story does not argue its theology. Prayer and song act upon the EverMind and upon the people who participate in them.
+
+Miriam’s Eastern Catholic faith, especially the Jesus Prayer, survives in the habits of her sons. Calvin continues taking them to church to honour her despite his unbelief. Ethan and Everett enter BabyLondon as practising Christians, but their suffering and their tragic love for their father awaken that faith into deliberate witness.
+
+## CodeSong
+
+CodeSong is a flowing but structured way of prompting the reality of the EverMind. It calls possibilities out of people and worlds through consent and participation. It cannot edit minds, erase suffering or recode identity.
 
 ## Desired Reader Experience
 
 The reader should experience:
 
 - the seduction and horror of BabyLondon;
-- Calvin’s professional confidence;
+- Calvin’s professional confidence and dry humour;
 - the gradual theft of his bodily and narrative agency;
 - the moral injury of coerced action;
-- the resilience of Ethan and Everett;
+- the resilience, difference and imperfect love of Ethan and Everett;
+- prayer as lived resistance rather than exposition;
 - the rediscovery of beauty as more than spectacle;
 - the emergence of communion without loss of individuality;
 - grief that is not tidily resolved;
-- hope that does not deny damage.
+- hope that does not deny damage;
+- an ending in which an offer of belonging can be accepted or refused without coercion.
 
 ## What Must Not Be Lost
 
 - The original dream’s strange symbolic force.
-- Calvin’s humanity and moral complexity.
-- The Sourceress’s simultaneous childlikeness and dangerousness.
+- Calvin’s humanity, competence and moral complexity.
+- The Sourceress’s simultaneous childlikeness, genius and dangerousness.
+- Her moral accountability and her lack of final remorse.
 - The distinction between coercion and consent.
 - The importance of Miriam’s continuing influence.
 - The boys’ love without sentimentalising their suffering.
 - The movement from code as control to CodeSong as communion.
 - The evolving narrative perspective.
-- The ambiguity and tragedy of the Sourceress’s final act.
+- The morally unresolved nature of the Sourceress’s final relinquishment.
 
 ## Working Title
 
@@ -83,9 +93,10 @@ The reader should experience:
 ## Open Questions
 
 - Is CodeSong the final title?
-- What length and form best suit the story?
-- How old are Ethan and Everett?
-- How does the Sourceress gain access to Calvin’s family?
-- What survives of Calvin after his compromise?
-- Can the Sourceress be offered a genuine alternative to self-erasure?
-- Does any trace of her remain after the destruction of her SimFont?
+- What length and form best suit the story? The current preference leans shorter, but no target is fixed.
+- Does the provisional three-part architecture survive further discovery?
+- How old are Ethan and Everett, and which is older?
+- How are later arrivals drawn into BabyLondon at the level of observable story action?
+- What survives of Calvin’s prior self after he accepts the offer of the Chorus?
+- What does the Sourceress’s latent distributed consciousness experience after she relinquishes embodied agency?
+

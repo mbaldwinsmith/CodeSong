@@ -2,17 +2,18 @@
 
 > **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** Not yet reviewed
+> **Last reviewed:** 3 August 2026
 
 ## Principal Figures
 
-- [Calvin Trent](characters/calvin-trent.md) — EverMind cyber-enforcer and single father of Ethan and Everett.
-- [The Sourceress](characters/the-sourceress.md) — a childlike SimSoul who created BabyLondon.
-- [Ethan Trent](characters/ethan-trent.md) — son of Calvin and Miriam; brother of Everett.
-- [Everett Trent](characters/everett-trent.md) — son of Calvin and Miriam; brother of Ethan.
-- [Miriam Trent, née Zoanna](characters/miriam-trent.md) — Calvin’s late wife and mother of Ethan and Everett.
-- [Rahma](characters/rahma.md) — the Trent family’s yellow Labrador puppy.
-- [The Harmonious Triad](characters/harmonious-triad.md) — three BabyLondon figures whose attempt at a theme song rediscovers music and beauty.
-- [The Chorus](world/codesong-and-the-chorus.md) — a community of distinct voices that develops CodeSong under Ethan and Everett’s guidance.
+- [Calvin Trent](characters/calvin-trent.md) — cynical, dryly humorous EverMind cyber-enforcer, grieving widower and father whose bodily and narrative authority is stolen.
+- [The Sourceress](characters/the-sourceress.md) — an impressionable, insatiably curious and dangerously brilliant childlike SimSoul who created BabyLondon.
+- [Ethan Trent](characters/ethan-trent.md) — Calvin and Miriam’s structured, verbal and protective son; later a guide of the Chorus.
+- [Everett Trent](characters/everett-trent.md) — Calvin and Miriam’s playful, intuitive and musically receptive son; later a guide of the Chorus.
+- [Miriam Trent, née Zoanna](characters/miriam-trent.md) — Calvin’s late Eastern Catholic wife, whose love and prayer remain active in the family.
+- [Rahma](characters/rahma.md) — the Trent family’s yellow Labrador puppy and a living bond with Miriam.
+- [The Harmonious Triad](characters/harmonious-triad.md) — three BabyLondon inhabitants whose attempted tribute rediscovers music and who later offer communion to Calvin and the Sourceress.
+- [The Chorus](world/codesong-and-the-chorus.md) — a community of distinct consenting voices that develops CodeSong under Ethan and Everett’s guidance.
 
-Detailed files must keep canonical facts separate from speculative possibilities.
+Detailed files distinguish canonical facts, directional canon, working inference and speculative possibilities.
+

@@ -2,7 +2,7 @@
 
 > **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** Not yet reviewed
+> **Last reviewed:** 3 August 2026
 
 ## Task Labels
 
@@ -26,41 +26,55 @@
 - [x] `[DOCS]` Add the specified foundation documents and placeholders.
 - [x] `[DOCS]` Preserve the authoritative `DREAM-SEED.md` unchanged.
 - [x] `[DOCS]` Record the accepted narrative perspective decisions.
-- [x] `[DOCS]` Create `chapters/01-anomaly.md` as a seed without drafting its prose.
+- [x] `[DOCS]` Create `chapters/01-anomaly.md` as a seed without drafting its prose during initialisation.
 - [x] `[DOCS]` Record repository initialisation in `CHANGELOG.md`.
 
-## Foundation
+## Opening Calibration
 
-- [ ] `[HUMAN]` Review and correct `DREAM-SEED.md`.
-- [ ] `[HUMAN]` Review the core statement in `VISION.md`.
-- [ ] `[HUMAN]` Decide whether **CodeSong** remains the working title.
-- [ ] `[CHARACTER]` Establish Ethan and Everett’s ages.
-- [ ] `[CHARACTER]` Define Calvin’s ordinary life before BabyLondon.
-- [ ] `[CHARACTER]` distinguish Ethan and Everett’s personalities.
-- [ ] `[CHARACTER]` Determine how Miriam’s memory appears in the narrative.
-- [ ] `[WORLD]` Define the relationship between physical time and EverMind time.
-- [ ] `[WORLD]` Define what administrator rights can and cannot do.
-- [ ] `[WORLD]` Define how the Sourceress gains access to Calvin’s family.
-- [ ] `[WORLD]` Define the limits of death and resuscitation within BabyLondon.
-- [ ] `[VOICE]` Identify the scene containing the first involuntary third-person intrusion.
-- [ ] `[VOICE]` Establish formatting conventions for code, commands, broadcasts and prayer.
-- [ ] `[STRUCTURE]` Develop a provisional three-part architecture.
-- [ ] `[PROSE]` Draft the opening scene of `01-anomaly.md`.
-- [ ] `[REVIEW]` Derive additional style rules from the opening scene.
+- [x] `[PROSE]` Draft Chapter 1, “Anomaly”.
+- [x] `[PROSE]` Draft Chapter 2, “Sourceress”.
+- [x] `[HUMAN]` Accept Chapters 1 and 2 as working canon open to revision.
+- [x] `[CHARACTER]` Establish Calvin’s initial voice as cynical, dryly humorous, procedurally exact and highly capable.
+- [x] `[VOICE]` Place the first involuntary third-person intrusion at the end of Chapter 2.
+- [x] `[CHARACTER]` Establish how the Sourceress acquires and adopts her name.
+- [x] `[WORLD]` Establish that Calvin genuinely returns to his workspace while the Sourceress’s authority exceeds BabyLondon’s boundary.
+- [x] `[REVIEW]` Derive additional style and narrative-state rules from the accepted opening.
+
+## Documentation Consolidation
+
+- [x] `[CHARACTER]` Distinguish Ethan and Everett’s baseline personalities.
+- [x] `[CHARACTER]` Establish Miriam’s Eastern Catholic faith and the Jesus Prayer as the central inherited practice.
+- [x] `[CHARACTER]` Establish Calvin’s unbelief, continued churchgoing with the boys, grief and paternal inadequacy.
+- [x] `[WORLD]` Establish BabyLondon’s initial single-resident state and later recruitment of people by the Sourceress.
+- [x] `[WORLD]` Establish CodeSong’s consensual nature and its limits.
+- [x] `[STRUCTURE]` Record the shared offer made to Calvin and the Sourceress and their divergent responses.
+- [x] `[STRUCTURE]` Replace literal Sourceress self-erasure with her accepted latent distributed ending.
+- [x] `[DOCS]` Bring the story bible into alignment with Chapters 1 and 2 and the accepted decisions of 3 August 2026.
+
+## Foundation Still Open
+
+- [ ] `[HUMAN]` Review and correct `DREAM-SEED.md` only if the historical source itself needs annotation; do not rewrite it to match later canon.
+- [ ] `[HUMAN]` Confirm whether **CodeSong** remains the final title.
+- [ ] `[HUMAN]` Review the provisional three-part architecture.
+- [ ] `[STRUCTURE]` Decide the form and approximate length after several more chapters reveal the story’s natural scale.
+- [ ] `[CHARACTER]` Establish Ethan and Everett’s ages and birth order.
+- [ ] `[CHARACTER]` Develop Calvin’s ordinary life beyond the home glimpses in Chapters 1 and 2.
+- [ ] `[CHARACTER]` Determine the first Miriam memory fragment and its trigger.
+- [ ] `[WORLD]` Define the relationship between physical time and EverMind time if the plot requires it.
+- [ ] `[WORLD]` Establish only the administrator limits needed by upcoming scenes.
+- [ ] `[WORLD]` Establish the observable sequence by which Ethan, Everett and Rahma reach Calvin without explaining RealSoul ingress.
+- [ ] `[WORLD]` Define the limits of death and resuscitation within BabyLondon before drafting Rahma’s suffering.
+- [ ] `[VOICE]` Calibrate the first sustained compromised-self scene after Chapter 2.
+- [ ] `[VOICE]` Discover formatting for sustained prayer and CodeSong in prose.
 - [ ] `[ETHICS]` Review the handling of Rahma before drafting scenes involving her suffering.
-- [ ] `[HUMAN]` Decide whether the Sourceress has another name.
+- [ ] `[CHARACTER]` Develop the Harmonious Triad without assigning personalities merely to complete the file.
+- [ ] `[CONTINUITY]` Clarify the observable relationship between the Sourceress’s latent consciousness, SimFont and administrator privileges.
 
 ## Immediate Priority
 
-The next creative task is to draft a calibration scene in `chapters/01-anomaly.md`.
+1. Human review of this documentation pass.
+2. Resolve only the questions required to plan Chapter 3.
+3. Build a short beat sheet for Chapter 3 before drafting prose.
 
-The scene should include:
+Do not draft Chapter 3 until the human author explicitly requests it.
 
-- Calvin receiving or investigating the anomalous broadcast;
-- his controlled first-person voice;
-- an initial experience of BabyLondon;
-- the Sourceress observing him;
-- evidence of her extraordinary capacity to learn;
-- a subtle warning that Calvin’s control may already be compromised.
-
-The scene should not yet contain the full capture or extended torture sequence.

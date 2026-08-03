@@ -1,8 +1,8 @@
 # Outline
 
-> **Status:** Placeholder  
+> **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** Not yet reviewed
+> **Last reviewed:** 3 August 2026
 
 ## Purpose
 
@@ -10,12 +10,25 @@ This directory contains provisional structural maps, not canonical prose.
 
 ## Current Material
 
-The three part titles and the first chapter-map row are provisional.
+- Chapters 1 and 2 are accepted working canon and mapped in `chapter-map.md`.
+- Later events are directional canon, but have not yet been assigned chapter numbers.
+- The three-part architecture remains a useful proposal rather than a settled form.
+- The finished work currently leans shorter, but its length will emerge from the story.
+
+## Provisional Architecture
+
+1. `act-1.md`: **The Anomaly**
+2. `act-2.md`: **The House of Gold**
+3. `act-3.md`: **CodeSong**
 
 ## Open Questions
 
-- The story’s final form, length and architecture remain unresolved.
+- Does Part One end with Calvin’s capture or continue through the family’s arrival?
+- How many chapters does each movement require without padding or compression?
+- Do the provisional part titles survive drafting?
 
 ## Next Actions
 
-- [ ] Develop a provisional three-part architecture after human review.
+- [ ] Obtain human review of the three-part architecture.
+- [ ] Plan Chapter 3 without assigning the whole story to chapter slots.
+
