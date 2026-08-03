@@ -18,6 +18,8 @@ Chapters 1 and 2 plus accepted decisions through 3 August 2026.
 - The held `STAY HOME` message creates a causal path for Ethan and Everett to come looking for Calvin.
 - The first third-person intrusion occurs only after Calvin’s administrative capture.
 - No Miriam memory, torture or family entry occurs in the first two chapters.
+- Calvin’s `AUTHORITY: OBSERVATION` is his ordinary local role, while his central administrator status permits the initial narrow forensic style suspension.
+- The square’s unauthorised restoration after four seconds, misattributed to Calvin in the audit, is the first permissions breach.
 
 ## Accepted Supersessions
 
@@ -26,18 +28,6 @@ Chapters 1 and 2 plus accepted decisions through 3 August 2026.
 - This is an intentional supersession recorded in `DECISIONS.md`, not an error to correct in the source document.
 
 ## Open Continuity Issues
-
-### Observation authority in Chapter 1
-
-Calvin receives `LOCAL AUTHORITY: NONE` and later enters under `AUTHORITY: OBSERVATION`, yet successfully suspends a style layer and is identified in the audit as administrator.
-
-Possible readings include:
-
-- central administrator authority permits a narrow forensic action despite local observation status;
-- the displayed permissions are already unreliable;
-- the Sourceress or world supplies the result while attributing it to Calvin.
-
-Do not choose among these readings without authorial review.
 
 ### Later population
 
