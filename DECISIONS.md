@@ -2,7 +2,7 @@
 
 > **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** 3 August 2026
+> **Last reviewed:** 4 August 2026
 
 This document records accepted creative and process decisions so that agents do not repeatedly reopen them.
 
@@ -185,3 +185,42 @@ This document records accepted creative and process decisions so that agents do 
 
 **Related files:** `chapters/01-anomaly.md`, `world/permissions-and-admin-rights.md`, `reviews/continuity.md`.
 
+### D-018: Chapter 3 as working canon
+
+**Status:** Accepted
+
+**Decision:** Chapter 3, “Audience”, is canonical but open to editing and rewriting. It begins continuously with Calvin’s stopped hand and ends after Ethan, Everett and Rahma arrive in BabyLondon, before any of them are harmed.
+
+**Consequences:** Its enacted choices supersede the unresolved drafting choices in `outline/chapter-3-plan.md`. Revisions must keep the narrative-state, character, world and ethical records in sync.
+
+**Related files:** `chapters/03-audience.md`, `outline/chapter-3-plan.md`, `outline/chapter-map.md`.
+
+### D-019: Compromised-self grammar
+
+**Status:** Accepted
+
+**Decision:** In Chapter 3, Calvin’s first person survives chiefly in intention, perception, judgement, resistance and witness. `Calvin`, `he` and `his` intrude chiefly around bodily actions, expressions and speech authored or compelled by the Sourceress.
+
+**Consequences:** Pronoun changes function as evidence of contested authorship, not as a mechanically absolute labelling system. The basic action must remain legible, and Calvin must not be treated as internally erased merely because his body appears in third person.
+
+**Related files:** `chapters/03-audience.md`, `NARRATIVE-SYSTEM.md`, `reviews/narrative-voice.md`.
+
+### D-020: Bodily coercion does not compel assent
+
+**Status:** Accepted
+
+**Decision:** The Sourceress can directly interfere with Calvin’s simulated movement, breathing, balance, temperature, sensation, facial expression and speech, and can inflict pain that his living nervous system experiences as real. She can observe involuntary responses and force performances, but cannot manufacture genuine approval, belief, love, memory or consent.
+
+**Consequences:** A bodily response may reveal information without becoming a free answer. Compelled smiles, applause and spoken agreement do not mean yes. The exact technical path between administrator authority, simulated embodiment and the RealFont remains protected.
+
+**Related files:** `chapters/03-audience.md`, `METAPHYSICS.md`, `GUARDRAILS.md`, `world/permissions-and-admin-rights.md`.
+
+### D-021: Recognition, fatherhood and the family lure
+
+**Status:** Accepted
+
+**Decision:** The Sourceress wants independent recognition and praise from Calvin as her first genuine audience. She explores fatherhood, explicitly asks `ARE YOU MY FATHER?`, and is told that need and possession cannot secure that relation, though she does not accept the limit. She then uses authentic family fragments and Calvin’s involuntary reactions to refine a hidden lure. Ethan, Everett and Rahma enter as active searchers; Calvin briefly warns them, but their refusal to abandon him turns his own protective fear into anger she can study.
+
+**Consequences:** Her intention is contact, information and approval rather than conventional sadism, but her refusal of consent produces deliberate cruelty. Calvin’s anger is his own; she discovers where to send it rather than creating it.
+
+**Related files:** `chapters/03-audience.md`, `characters/the-sourceress.md`, `characters/calvin-trent.md`, `TIMELINE.md`.

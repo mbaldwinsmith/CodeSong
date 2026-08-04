@@ -2,7 +2,7 @@
 
 > **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** 3 August 2026
+> **Last reviewed:** 4 August 2026
 
 ## Working Proposition
 
@@ -27,6 +27,10 @@ The Sourceress’s final condition establishes that consciousness, embodied pres
 RealSouls remain rooted in biological bodies outside the EverMind while experiencing simulated embodiment within it. SimSouls possess computational SimFonts and can have bodies rendered within SimWorlds.
 
 Embodied action matters morally even when bodily authorship is stolen. The story must hold together the reality of harm, Calvin’s coercion and the continuing relational consequences.
+
+Chapter 3 establishes that administrator control can alter a RealSoul’s simulated movement, breathing, balance, temperature, facial expression, speech and sensation. A pain stimulus without visible injury is nevertheless received by Calvin’s living nervous system as real suffering. The exact route between simulated intervention and biological response remains unexplained.
+
+Autonomic responses can reveal fear, grief, pain or attachment without becoming consent or a freely chosen answer. The Sourceress can force Calvin to perform approval but cannot make the performance mean yes.
 
 ## Continuity of Identity
 
@@ -61,6 +65,7 @@ CodeSong can call things out of participating persons, including capacities or p
 - recode identity;
 - compel participation;
 - manufacture remorse;
+- compel genuine approval or belief;
 - restore a person by reverting them to a prior state.
 
 ## Individuality and Communion
@@ -74,5 +79,6 @@ Calvin accepts the Triad’s offer to belong, heal with time and contribute to c
 - The exact means by which RealSouls enter the EverMind.
 - The ultimate relation between SoulFont and personhood.
 - The precise mechanism by which the Sourceress copies Calvin’s authority.
+- The precise path by which administrator intervention in simulated embodiment reaches a RealSoul’s biological nervous system.
 - The deepest technical or metaphysical operation of CodeSong.
 - The subjective experience of the Sourceress’s final distributed state.

@@ -2,21 +2,21 @@
 
 > **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** 3 August 2026
+> **Last reviewed:** 4 August 2026
 
 Questions belong here when answering them would materially affect the story. Unknowns need not be solved merely because a document has a heading.
 
 ## Story Form
 
-- Does the provisional three-part architecture remain useful after Chapter 2?
+- Does the provisional three-part architecture remain useful after Chapter 3?
 - Where does Part One end: at Calvin’s capture, the family’s arrival or a later irreversible act?
 - Does the finished story become a novella, a short novel or another form?
-- What is the first scene Chapter 3 must accomplish?
+- What is the dramatic boundary of the first scene after the family’s arrival?
 
 ## Character
 
 - How old are Ethan and Everett, and which is older?
-- What are their first distinct responses when they realise Calvin has not returned?
+- How do Ethan and Everett process Calvin’s shouted anger differently after their active-searcher introduction?
 - What first triggers a Miriam memory fragment in Calvin?
 - What does Calvin’s pre-incident unbelief look like in practice beyond taking the boys to church?
 - Who are the individual members of the Harmonious Triad, if the story needs names at all?
@@ -26,15 +26,14 @@ Questions belong here when answering them would materially affect the story. Unk
 
 - How does EverMind time relate to physical time when missed dinner becomes an active risk?
 - What observable safeguards normally prevent an administrator’s authority from crossing a sealed boundary?
-- What can the Sourceress do to Calvin’s body, perception, emotion, memory and narration at each stage?
+- Beyond the movement, breath, balance, temperature, sensation, expression and speech controls established in Chapter 3, what further limits does the plot require?
 - What are the limits of death and resuscitation inside BabyLondon?
 - Are the people lured into BabyLondon RealSouls, SimSouls or both?
 - How do the Sourceress’s administrator privileges remain available after she relinquishes active agency?
 
 ## Perspective
 
-- Does Chapter 3 begin immediately from the stopped hand or after a discontinuity?
-- How quickly does initial estrangement become sustained compromised narration?
+- How does sustained compromised narration evolve once Calvin’s anger becomes the Sourceress’s next input?
 - What page form best carries the Jesus Prayer when prose fragments?
 - When does the first threatening `we` appear?
 - How are distinct voices identified once choral narration begins?
@@ -56,7 +55,6 @@ Questions belong here when answering them would materially affect the story. Unk
 
 ## Plot Causality
 
-- What immediate event brings Ethan, Everett and Rahma into danger after Calvin’s held message?
 - How does the Sourceress turn Calvin’s justified fear and anger at the boys’ arrival against them?
 - At what point does recruitment for BabyLondon begin, and what makes people consent to enter?
 - How do the Harmonious Triad encounter the boys?
@@ -85,4 +83,3 @@ These should not be treated as technical debts:
 
 - How should the human–AI collaboration be credited in a published edition?
 - Which draft-history and provenance notes should remain internal to the repository?
-

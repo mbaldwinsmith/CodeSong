@@ -2,7 +2,7 @@
 
 > **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** 3 August 2026
+> **Last reviewed:** 4 August 2026
 
 ## Role in the Story
 
@@ -14,7 +14,10 @@ Son of Calvin and Miriam; brother of Ethan; practising Eastern Catholic child; l
 - Continues attending church with Calvin and Ethan after her death.
 - Quietly undercuts Ethan’s hard-stop warning in Chapter 2 by announcing that they checked and nineteen hundred is now.
 - Names Rahma as lead complainant when Calvin delays dinner.
-- Later enters BabyLondon looking for Calvin and brings Rahma with Ethan to comfort him.
+- Enters BabyLondon looking for Calvin with Rahma’s lead wound around his wrist.
+- Notices that Calvin “isn’t doing the smile” and therefore reads compromised embodiment before anyone explains it.
+- Names comfort as the true part of the false message and reaches for Rahma’s lead when Calvin warns them away.
+- Brings Rahma with Ethan to comfort Calvin.
 - Becomes the third or fourth tortured soul in BabyLondon, after Calvin and Rahma.
 - Is harmed through a compromised Calvin.
 - Remains loving despite the Sourceress’s attempts to corrupt him.
@@ -69,10 +72,10 @@ Everett can hear or respond to relations before they become an explicit system. 
 ## Canonical Facts
 
 - Everett is more playful, intuitive, musically receptive and quietly funny than Ethan.
+- His Chapter 3 arrival enacts his intuitive attention through the false smile, Rahma and the need for comfort.
 - He enters BabyLondon as a practising Christian; he does not begin there as an unbeliever.
 - He remains a distinct child, not a saintly abstraction.
 
 ## Speculative Possibilities
 
 - Everett may become an early hearer of patterns that later become CodeSong. This remains a possibility until dramatised.
-

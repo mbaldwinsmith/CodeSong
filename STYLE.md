@@ -2,7 +2,7 @@
 
 > **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** 3 August 2026
+> **Last reviewed:** 4 August 2026
 
 ## General Mode
 
@@ -35,9 +35,11 @@ He does not consciously dwell on Miriam while working. His guilt, unbelief and s
 
 ## Established Calibration
 
-Chapters 1 and 2 establish the preferred balance as funny, engaging and creepy. Preserve that mixture while the story can still support it. Humour should thin rather than disappear as Calvin loses control.
+Chapters 1–3 establish the preferred balance as funny, engaging and creepy. Preserve that mixture while the story can still support it. Chapter 3 shows humour thinning rather than vanishing as Calvin loses control: procedure remains both tactical resistance and voice.
 
 The reader may infer danger before Calvin understands it, but the narration does not become omniscient. Calvin remains intelligent and perceptive. His error is an incomplete model of an unprecedented threat, not stupidity.
+
+Chapter 3 establishes the story’s horror register as violated agency rather than gore. Pain is brief, localised and subjectively real; anticipation, compelled movement, broken syntax and the Sourceress’s refusal to stop carry more weight than anatomical description. Her questions stay concrete and childlike while their sequence becomes increasingly exact. Do not turn that method into repeated torture spectacle or copy the chapter’s white-point stimulus mechanically into every later scene.
 
 ## Narrative Evolution
 
@@ -117,3 +119,4 @@ Scenes involving coercion, torture or harm must prioritise subjective consequenc
 
 Pain must not be escalated merely to intensify the reader’s reaction.
 
+Compelled gestures, words, smiles and applause must remain distinguishable from consent, belief and freely given approval. An involuntary bodily response may disclose information without becoming a moral permission or a chosen answer.

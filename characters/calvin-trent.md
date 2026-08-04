@@ -2,7 +2,7 @@
 
 > **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** 3 August 2026
+> **Last reviewed:** 4 August 2026
 
 ## Role in the Story
 
@@ -20,7 +20,12 @@ EverMind cyber-enforcer and anomaly investigator; widowed father of Ethan and Ev
 - Responds to the anomalous BabyLondon broadcast and becomes the first RealSoul the Sourceress encounters.
 - Is named as the source of the administrator authority she copies.
 - Is captured after she revokes his access and seals his workspace.
-- Later becomes the first tortured soul in BabyLondon and is coerced into harming Rahma, Ethan and Everett.
+- Becomes the first tortured soul in BabyLondon when the Sourceress manipulates his simulated body and uses pain to obtain involuntary answers.
+- Remains internally capable of judgement, refusal and witness while she compels some movement, expression and speech.
+- Refuses to praise BabyLondon, become the Sourceress’s father or treat need as consent.
+- Inadvertently teaches her how to lure Ethan, Everett and Rahma by reacting to candidate messages.
+- Warns the family to leave when they arrive, then turns protective fear into his own anger at the boys’ disobedience.
+- Is later coerced into harming Rahma, Ethan and Everett.
 
 ## Personality
 
@@ -85,24 +90,25 @@ These associations are not exhaustive interpretations.
 - Understated jokes rather than performed cleverness.
 - Miriam absent from his conscious opening narration.
 - Third person first intrudes around his stopped hand at the end of Chapter 2.
+- In Chapter 3, first person carries intention, judgement and witness while `Calvin`, `he` and `his` chiefly mark externally authored bodily action.
+- Dry procedure survives as resistance during interrogation, but polished control thins as pain and family danger intensify.
 
 ## Open Questions
 
 - What is Calvin’s exact age and prior career history?
 - How long ago did Miriam die?
 - What first triggers an involuntary memory of her?
-- What degree of control does the Sourceress gain over body, perception, emotion, memory and narration?
-- How does Calvin respond when the boys bring Rahma into BabyLondon?
+- How does Calvin respond after hearing his sons receive his shouted anger?
+- What further limits of the Sourceress’s control become necessary after Chapter 3?
 - What is his first freely chosen act after accepting the Chorus?
 
 ## Canonical Facts
 
 - Calvin is a RealSoul.
-- Chapters 1 and 2 establish his initial voice and capture.
+- Chapters 1–3 establish his initial voice, capture, first torture, compromised grammar and reaction to the family’s arrival.
 - He remains capable of love and comfort while being coerced into harm.
 - He eventually breaks down and accepts belonging, healing with time, contribution and communion.
 
 ## Speculative Possibilities
 
 - Calvin’s professional competence may partly function as a defence against grief and paternal inadequacy. This is a working inference, not yet explicit canon.
-

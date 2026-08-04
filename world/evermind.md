@@ -2,7 +2,7 @@
 
 > **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** 3 August 2026
+> **Last reviewed:** 4 August 2026
 
 ## Definition
 
@@ -16,8 +16,10 @@ An advanced central-mind simulation ecology containing RealSouls, SimSouls and m
 - Supports biological and fully simulated consciousness.
 - Death within the EverMind can cause the death of a RealSoul’s physical body.
 - RealSouls carry involuntary embodied rhythms such as breath, blink and balance into simulated experience.
+- Intervention in a RealSoul’s simulated embodiment can reach the living nervous system as breath distress, imbalance, temperature change or pain even without visible injury.
 - Central workspaces can connect to SimWorlds through field thresholds.
 - A field threshold can function correctly even while administrative authority exceeds the jurisdiction it should have.
+- A preserved workspace can later report BabyLondon as its containing world without the narrative establishing whether person, world or classification moved.
 - The EverMind accepts spoken prompts, thought-code, identity claims, permission chains and audit records.
 - CodeSong can prompt the reality of the EverMind through structured, flowing participation.
 
@@ -39,6 +41,7 @@ The EverMind is both a technical ecology and the reality whose deeper responsive
 
 - Governance, ownership and legal status remain unresolved.
 - The relationship between physical and simulated time is unknown.
+- The exact path between administrator intervention, simulated sensation and a RealSoul’s biological nervous system is unknown.
 - The EverMind’s possible consciousness is unestablished.
 - Its acceptance of an authorised form does not imply moral judgement or true understanding.
 
@@ -59,4 +62,3 @@ The EverMind is both a technical ecology and the reality whose deeper responsive
 ## Speculative Possibilities
 
 > No governing institution or conscious EverMind has been accepted.
-

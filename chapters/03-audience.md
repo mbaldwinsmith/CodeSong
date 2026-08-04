@@ -1,8 +1,8 @@
 # Chapter 3: Audience
 
-> **Status:** Draft  
+> **Status:** Accepted<br>
 > **Perspective state:** Initial estrangement -> compromised Calvin  
-> **Authority:** Human author; AI-generated draft proposal  
+> **Authority:** Human author<br>
 > **Last reviewed:** 4 August 2026
 
 ## Scene Purpose
@@ -30,7 +30,7 @@
 
 ## Draft
 
-> **Draft provenance:** Initial AI-generated proposal for human review. No new detail in this chapter is accepted canon until the human author accepts it.
+> **Draft provenance:** Initial AI-generated seed accepted by the human author as working canon. The chapter remains open to editing and rewriting.
 
 I told it to move again.
 

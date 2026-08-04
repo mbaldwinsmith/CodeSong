@@ -1,8 +1,22 @@
 # Chapter 3 Plan
 
-> **Status:** Provisional  
+> **Status:** Fulfilled — retained as development history<br>
 > **Authority:** Human author  
-> **Last reviewed:** 3 August 2026
+> **Last reviewed:** 4 August 2026
+
+## Outcome
+
+The plan was enacted in accepted [Chapter 3: Audience](../chapters/03-audience.md). The chapter governs canon where its prose resolves choices that were still open here. This file remains useful as a record of intent, restraint and scene architecture, not as a competing source.
+
+The accepted draft resolves the principal choices as follows:
+
+- it begins continuously with Calvin’s stopped hand;
+- the workspace is observably preserved while BabyLondon becomes its containing world;
+- the Sourceress explicitly asks `ARE YOU MY FATHER?`;
+- the exact lure remains hidden from Calvin and the reader;
+- Rahma pulls Everett into view, with Ethan arriving beside him;
+- Ethan speaks first;
+- the ending remains within Calvin’s first-person witness, locating the anger in him while identifying the Sourceress’s manipulation of its direction.
 
 ## Chapter Purpose
 

@@ -2,7 +2,7 @@
 
 > **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** 3 August 2026
+> **Last reviewed:** 4 August 2026
 
 ## Current Manuscript
 
@@ -10,8 +10,7 @@
 |---|---|---|---|
 | 1 | Anomaly | Accepted | Open to edits |
 | 2 | Sourceress | Accepted | Open to edits |
-
-No Chapter 3 file or prose has been created.
+| 3 | Audience | Accepted | Open to edits |
 
 ## Chapter Development
 
@@ -32,4 +31,3 @@ SEED
 Acceptance as working canon means a chapter may establish facts for the story bible while remaining open to deliberate revision. A revision that changes canon must be reflected in `DECISIONS.md`, relevant reference files and `CHANGELOG.md`.
 
 Locked prose must not be changed without explicit human-author approval.
-

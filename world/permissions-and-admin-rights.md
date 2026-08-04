@@ -2,7 +2,7 @@
 
 > **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** 3 August 2026
+> **Last reviewed:** 4 August 2026
 
 ## Definition
 
@@ -32,6 +32,17 @@ Administrator rights are authenticated permissions used by Calvin in his EverMin
 - Emergency severance revokes Calvin rather than the Sourceress.
 - She becomes the remaining system administrator and seals Calvin’s workspace.
 
+### Chapter 3
+
+- Calvin’s session continues to identify as his preserved central workspace while its containing world becomes BabyLondon.
+- The Sourceress can stop and compel simulated movement, posture, facial expression and speech.
+- She can alter breath, balance, temperature and sensation, including pain experienced through Calvin’s living nervous system.
+- She can observe involuntary bodily responses and use them to test hidden information.
+- Compelled nodding, smiling, applause and spoken agreement do not give her authority over Calvin’s genuine approval or consent.
+- She releases outbound contact to two recipients and makes a route available; BabyLondon later records a boundary event with three new presences.
+
+These are established capabilities and effects, not a complete account of how administrator authority reaches a RealFont.
+
 ## Governing Distinction
 
 Her **presence** remains inside BabyLondon. Her **authority** exceeds the world’s boundary.
@@ -56,13 +67,13 @@ Administrator recoding represents creation and control through command. Its fail
 
 - Exact credential architecture remains unresolved.
 - The reason the EverMind validates copied authority remains unresolved.
-- The effect of permissions upon RealFonts should be established only as scenes require it.
+- The deeper path by which permissions affect a RealFont beyond the Chapter 3 observations remains unresolved.
 - The governance of the final administrator privileges remains unresolved.
 
 ## Open Questions
 
 - What normal safeguard is failing when authority crosses a sealed boundary?
-- What can administrator rights do directly to a RealSoul’s simulated body or connection?
+- What additional limits apply to administrator control of a RealSoul beyond the capabilities established in Chapter 3?
 - Does the Sourceress copy verbs, identity, intention, permission topology or some deeper source-pattern?
 - Can the Chorus revoke or constrain the privileges it receives?
 - Does the Sourceress retain any capacity to withdraw them?
@@ -76,4 +87,3 @@ Administrator recoding represents creation and control through command. Its fail
 ## Speculative Possibilities
 
 > Do not reduce the breach to a conventional stolen credential unless accepted later.
-

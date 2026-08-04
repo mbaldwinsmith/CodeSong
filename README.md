@@ -12,14 +12,15 @@ The human author retains final creative, moral and symbolic authority.
 
 ## Current Phase
 
-Working canon and documentation.
+Accepted opening movement and documentation.
 
-Chapters 1 and 2 are accepted working canon while remaining open to revision. The current task is to bring the story bible into alignment with those chapters and the author’s subsequent decisions before planning Chapter 3.
+Chapters 1–3 are accepted working canon while remaining open to revision. The next creative task is to define the scene boundary after the family’s arrival.
 
 ## Manuscript
 
 - [Chapter 1: Anomaly](chapters/01-anomaly.md)
 - [Chapter 2: Sourceress](chapters/02-sourceress.md)
+- [Chapter 3: Audience](chapters/03-audience.md)
 
 ## Start Here
 
@@ -32,4 +33,3 @@ Chapters 1 and 2 are accepted working canon while remaining open to revision. Th
 ## Drafting Principle
 
 Documentation exists to protect and clarify what is alive in the story. It must not replace discovery, ambiguity or imaginative risk.
-
