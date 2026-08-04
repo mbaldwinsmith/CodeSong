@@ -19,7 +19,7 @@ Collect unattached prayer fragments while preserving their speaker, source and n
 
 ## Exact Text
 
-Lord Jesus Christ, Son of God, have mercy on me, as sinner.
+Lord Jesus Christ, Son of God, have mercy on me.
 
 ## Open Questions
 
