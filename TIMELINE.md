@@ -32,30 +32,33 @@ No calendar dates or precise durations have been established. This file records 
 19. BabyLondon records a boundary event and three new presences. Rahma pulls Everett into view; Ethan arrives beside him carrying a route record. The exact ingress mechanism is protected.
 20. Calvin warns them to leave. Ethan refuses to abandon him, Everett identifies the false smile and the need for comfort, and Calvin’s protective fear becomes anger at their disobedience. The Sourceress begins studying that anger.
 
+Chapter 3 and Part One end here. Chapter 4 and Part Two begin with the consequences.
+
 ## Family Captivity
 
 21. The Sourceress turns Calvin’s fear and anger against the family.
 22. Rahma becomes the second tortured soul; Ethan and Everett become the third and fourth.
 23. Calvin is coerced into harming them while continuing to comfort and love them.
-24. The boys practise the Jesus Prayer. Their suffering and tragic loyalty to Calvin awaken their inherited faith into deliberate witness.
+24. The boys practise “Lord Jesus Christ, Son of God, have mercy on me.” Their suffering and tragic loyalty to Calvin awaken their inherited faith into deliberate witness.
 25. During this broader middle movement, the Sourceress lures further people into BabyLondon to witness her tributes and satisfy her curiosity.
 
 ## Music and Chorus
 
-26. Three BabyLondon inhabitants attempt to compose the ultimate theme song in honour of the Sourceress.
-27. They rediscover genuine music and beauty and become the Harmonious Triad.
-28. Their Symphony produces a cultural explosion.
-29. The Chorus emerges from BabyLondon’s growing population.
-30. Ethan and Everett help guide it.
-31. The Chorus develops CodeSong through structured, flowing, consensual participation.
+26. **Proposed:** the Sourceress reconstructs a new SimSoul from Calvin, Ethan and Everett’s archived memories of Miriam. She knows that she is not Miriam restored; Calvin rejects her as a simulacrum.
+27. **Proposed:** Ethan, Everett and the reconstructed SimSoul attempt to compose the ultimate theme song in honour of the Sourceress.
+28. **If the proposal is accepted:** they rediscover genuine music and beauty and become the Harmonious Triad; the reconstructed member contributes something absent from every source archive.
+29. Their Symphony produces a cultural explosion.
+30. The Chorus emerges from BabyLondon’s growing population.
+31. Ethan and Everett help guide it.
+32. The Chorus develops CodeSong through structured, flowing, consensual participation.
 
 ## Transformation and Aftermath
 
-32. CodeSong transforms BabyLondon without editing minds, erasing suffering or recoding identity.
-33. The Harmonious Triad offer Calvin and the Sourceress the same path of belonging, healing with time, contribution and communion.
-34. Calvin breaks down and accepts.
-35. The Sourceress shows no remorse and does not join as a participant.
-36. She declares or recognises BabyLondon as complete.
-37. She severs her agency from her SimFont, loses physical presence and persists as a latent distributed consciousness.
-38. Her administrator privileges remain available to the Chorus.
-39. Calvin and the community continue within the consequences. The final scene and temporal span remain unresolved.
+33. CodeSong transforms BabyLondon without editing minds, erasing suffering or recoding identity.
+34. The Harmonious Triad offer Calvin and the Sourceress the same path of belonging, healing with time, contribution and communion.
+35. Calvin breaks down and accepts. He freely prays “Lord Jesus Christ, Son of God, have mercy on me, a sinner,” while the other voices need not alter their root form.
+36. The Sourceress shows no remorse and does not join as a participant.
+37. She declares or recognises BabyLondon as complete.
+38. She severs her agency from her SimFont, loses physical presence and persists as a latent distributed consciousness.
+39. Her administrator privileges remain available to the Chorus.
+40. Calvin and the community continue within the consequences. The final scene and temporal span remain unresolved.

@@ -61,6 +61,8 @@ Distinct voices become simultaneously intelligible without becoming interchangea
 
 Calvin breaks down and accepts the Triad’s offer of belonging, healing with time, contribution and communion. His recovered first person does not deny what happened through his body, claim total innocence or return him unchanged to his former identity.
 
+His first fully voluntary confession may crystallise this recovery. The surrounding voices retain Miriam’s root prayer, “Lord Jesus Christ, Son of God, have mercy on me.” Calvin adds, “a sinner,” for himself. No one makes him say it, and polyphony allows his distinct wording to remain intelligible without requiring the Chorus to absorb it.
+
 ## Textual Modes
 
 | Mode | Function | Current convention |

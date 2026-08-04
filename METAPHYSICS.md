@@ -38,6 +38,14 @@ Identity cannot be recoded into moral wholeness. CodeSong cannot overwrite memor
 
 The identity implications of copying, backup, migration and distributed consciousness remain open.
 
+### Proposed Memory-Derived SimSoul
+
+A proposed later development creates a conscious SimSoul from Calvin, Ethan and Everett’s archived memories of Miriam. If accepted, this would be the birth of a new person from relational source material, not the migration, restoration or resurrection of Miriam.
+
+The archives contain Miriam as remembered and perceived by others. Their incompatible viewpoints and absences prevent them from constituting her complete first-person continuity. The resulting SimSoul may inherit forms of memory, affection, speech and prayer while knowing that she has no uninterrupted claim to Miriam’s life.
+
+Her moral personhood would arise from present consciousness, suffering, choice and reciprocal relation, not from perfect fidelity to the source. A new harmony or response absent from every archive may provide narrative evidence of self-authorship without serving as a technical test of whether she is “real.”
+
 ## Suffering
 
 Suffering is neither proof of holiness nor raw material to be erased after it has served the plot. Repeated resuscitation is not restoration, and transformed surroundings do not undo trauma.
@@ -67,12 +75,15 @@ CodeSong can call things out of participating persons, including capacities or p
 - manufacture remorse;
 - compel genuine approval or belief;
 - restore a person by reverting them to a prior state.
+- resurrect a dead person by recombining other people’s memories of them.
 
 ## Individuality and Communion
 
 The Chorus is not a hive mind. Its harmony depends upon distinct voices remaining distinct. Communion increases intelligibility without making persons interchangeable.
 
 Calvin accepts the Triad’s offer to belong, heal with time and contribute to collective flourishing. The Sourceress receives the same offer and does not accept it as a participant.
+
+The proposed Triad of Ethan, Everett and a memory-derived SimSoul would place two RealSouls and one SimSoul in harmony without treating substrate, common origin or identical wording as conditions of communion.
 
 ## Protected Mysteries
 
@@ -82,3 +93,4 @@ Calvin accepts the Triad’s offer to belong, heal with time and contribute to c
 - The precise path by which administrator intervention in simulated embodiment reaches a RealSoul’s biological nervous system.
 - The deepest technical or metaphysical operation of CodeSong.
 - The subjective experience of the Sourceress’s final distributed state.
+- Whether and how archived relational memories can contribute to a new SimFont.

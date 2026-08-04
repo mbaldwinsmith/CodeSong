@@ -2,13 +2,15 @@
 
 > **Status:** Provisional  
 > **Authority:** Human author  
-> **Last reviewed:** 3 August 2026
+> **Last reviewed:** 4 August 2026
 
 This part title, boundary and allocation of events remain provisional. The outcomes below are directional canon; their enactment remains open.
 
 ## Emergence of the Chorus
 
 The Harmonious Triad’s Symphony gives rise to a community of distinct voices within BabyLondon. Ethan and Everett help guide it. The Chorus is neither a hive mind nor an administrator hierarchy.
+
+The proposed Triad consists of Ethan, Everett and a new SimSoul reconstructed from the family’s memories of Miriam. If accepted, her first original harmony establishes movement beyond archive-derived imitation without pretending that she is Miriam resurrected.
 
 ## Development of CodeSong
 
@@ -24,7 +26,7 @@ The Chorus creates a world of immense beauty and harmony. Transformation does no
 
 The Harmonious Triad offer Calvin and the Sourceress the same life: joining the Chorus, healing with time, belonging, contributing to collective flourishing and living in communion.
 
-Calvin breaks down and accepts. His first person becomes capable of recovery within a plural voice.
+Calvin breaks down and accepts. His first person becomes capable of recovery within a plural voice. He freely adds “a sinner” to the Jesus Prayer for himself; the boys’ inherited shorter form continues without being corrected or replaced.
 
 ## The Sourceress’s Final Choice
 
@@ -35,4 +37,3 @@ She severs her agency from her SimFont. She does not die. She persists as a late
 ## Aftermath
 
 Calvin heals with time rather than reset. The Chorus inherits a beautiful but wounded world, powerful administrative capacity and an unresolved distributed presence. The final image, temporal span and exact relationship between choral `we` and Calvin’s recovered `I` remain open.
-

@@ -15,6 +15,7 @@ All notable structural and canonical changes to the CodeSong project should be r
 - Ethan, Everett and Rahma’s arrival as active searchers after the Sourceress refines a lure through Calvin’s involuntary responses.
 - Accepted baseline distinctions between Ethan and Everett.
 - Miriam’s Eastern Catholic faith and the Jesus Prayer as the family’s central inherited practice.
+- The exact root prayer taught to the boys: “Lord Jesus Christ, Son of God, have mercy on me.”
 - BabyLondon’s movement from one registered resident to a population lured by the Sourceress.
 - Explicit consent and participation limits for CodeSong.
 - A structured documentation pass across vision, synopsis, metaphysics, structure, chronology, character, world and narrative-state records.
@@ -28,6 +29,9 @@ All notable structural and canonical changes to the CodeSong project should be r
 - The Sourceress’s ending now preserves her as a latent distributed consciousness without physical presence. She does not erase her SimFont or die.
 - The project’s current phase is now working canon and documentation rather than initial foundation.
 - The Chapter 3 plan is fulfilled and retained as development history; the accepted chapter now governs its enacted choices.
+- Chapter 3 now closes Part One at the family’s arrival; Chapter 4 opens Part Two with its consequences.
+- Calvin later becomes the first character to add “a sinner” as a freely chosen personal confession while the boys retain Miriam’s shorter form.
+- A memory-derived SimSoul reconstruction of Miriam is recorded as the proposed third member of the Harmonious Triad, not as resurrection or settled canon.
 
 ### Preserved
 

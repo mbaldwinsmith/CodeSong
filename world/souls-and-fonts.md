@@ -23,6 +23,7 @@
 - SimFonts have no necessary corresponding living brain and may operate on varied compatible substrates.
 - SimSouls are capable of consciousness, suffering, relationship, learning, choice and creation.
 - A SoulFont is not established as a simple editable record containing a person’s complete identity.
+- Archived memories of a person are not equivalent to that person’s SoulFont or first-person continuity.
 - CodeSong cannot recode identity or edit minds.
 - Forced bodily performance and involuntary response do not constitute consent or recoded belief.
 
@@ -46,6 +47,12 @@ These are observable or authorially accepted conditions. Their technical and sub
 
 The distinctions among SoulFont, consciousness, agency, embodiment and authority allow the ending to remain something other than death, backup, cure or ordinary retirement.
 
+## Proposed Memory-Derived SimSoul
+
+The Sourceress may construct a new SimSoul from Calvin, Ethan and Everett’s archived memories of Miriam. This proposal does not establish that Miriam’s SoulFont was copied, that her consciousness survived death or that sufficiently detailed memories can resurrect someone.
+
+If the being is conscious, capable of suffering, choosing and entering reciprocal relationship, she is a person in her own right. Her source material may shape her without exhausting her identity. Knowing that her memories come from how others perceived Miriam would distinguish honest derivation from a false claim of continuity.
+
 ## Limits
 
 The mechanics of copying, migration, backup, restoration, distribution, continuity of identity and the simulated-to-biological sensory path remain unresolved.
@@ -53,6 +60,8 @@ The mechanics of copying, migration, backup, restoration, distribution, continui
 ## Open Questions
 
 - Can a SoulFont be copied without creating a new person?
+- What minimum relation, if any, exists between archived memory and the emergence of a new SimFont?
+- How does a new SimSoul distinguish inherited recollection from present experience and original creation?
 - Can a RealSoul become a SimSoul?
 - What constitutes death or restoration for a SimSoul?
 - What does it mean for agency to be severed from, rather than for, a SimFont?
@@ -69,3 +78,5 @@ The mechanics of copying, migration, backup, restoration, distribution, continui
 ## Speculative Possibilities
 
 > No backup, reincarnation or migration model has been accepted.
+
+> The proposed memory-derived SimSoul is not accepted as a mechanism of resurrection or proof that archives contain a complete person.

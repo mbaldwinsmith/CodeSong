@@ -38,6 +38,11 @@
 30. Involuntary bodily responses may disclose information without becoming moral permission or a freely chosen answer.
 31. Simulated pain experienced through a RealSoul’s living nervous system is real harm even without visible injury.
 32. The Sourceress’s childlike questions and desire for recognition explain the form of her inquiry but do not excuse her decision to continue after Calvin says stop.
+33. A SimSoul reconstructed from memories of Miriam would be a new person, not Miriam resurrected, restored, copied whole or returned from death.
+34. Calvin’s refusal to recognise a reconstruction as his wife may be ontologically correct without making the new SimSoul an object or non-person.
+35. Archived memories may provide inherited forms but cannot predetermine every choice of a conscious reconstruction; genuinely new action must remain possible.
+36. Rahma remains a dog whose mercy is non-verbal and embodied. Do not convert her into a humanised third theological voice.
+37. Calvin’s phrase “a sinner” must be a voluntary personal confession. It must not be imposed on the boys, compelled by the Chorus or used to define personhood by shame.
 
 ## Mystery Guardrails
 
@@ -45,6 +50,7 @@
 - Do not reduce the Sourceress’s copied authority to a conventional credential exploit unless the author decides to do so.
 - Do not define CodeSong so mechanically that consent, relation and discovery become cosmetic.
 - Describe the observable conditions of the Sourceress’s final state without claiming access to an explanation the story has not earned.
+- Do not explain memory-derived SimSoul construction as though an archive were a complete portable self.
 
 ## Process Guardrails
 

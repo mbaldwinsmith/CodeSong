@@ -10,7 +10,7 @@ Son of Calvin and Miriam; brother of Everett; practising Eastern Catholic child;
 
 ## Known History
 
-- Prayed with Miriam, for whom the Jesus Prayer was central.
+- Prayed with Miriam using “Lord Jesus Christ, Son of God, have mercy on me.”
 - Continues attending church with Calvin and Everett after her death.
 - Enforces Calvin’s nineteen-hundred dinner hard stop in Chapter 2.
 - Enters BabyLondon looking for Calvin, carrying a route record and arriving beside Everett rather than behind him.
@@ -47,6 +47,7 @@ Son of Calvin and Miriam; brother of Everett; practising Eastern Catholic child;
 - **Miriam:** late mother and source of inherited prayer and faith.
 - **Everett:** brother and complementary co-guide of the Chorus.
 - **Rahma:** family puppy he helps bring to comfort Calvin.
+- **Proposed reconstructed SimSoul:** possible third member of the Harmonious Triad; a new person shaped partly by Ethan’s archived memories of Miriam, not his mother restored.
 
 ## Character Arc
 
@@ -66,7 +67,7 @@ Ethan can preserve structure, verbal continuity, promises and moral distinctions
 
 - How old is Ethan, and is he the elder brother?
 - How does he express anger at Calvin without abandoning him?
-- What exact form of the Jesus Prayer does he use?
+- What rhythm does he give the accepted form of the Jesus Prayer?
 - What distinct contribution does he make to CodeSong?
 
 ## Canonical Facts
@@ -74,8 +75,10 @@ Ethan can preserve structure, verbal continuity, promises and moral distinctions
 - Ethan is more structured, verbal, protective and rule-oriented than Everett.
 - His Chapter 3 arrival enacts those traits through the route record, ordered explanation and physical protection of Everett.
 - He enters BabyLondon as a practising Christian; he does not begin there as an unbeliever.
+- His inherited prayer does not include “a sinner.”
 - He remains a distinct child, not a saintly abstraction.
 
 ## Speculative Possibilities
 
 - Ethan may become a keeper of wording, sequence or ethical boundaries within the Chorus. This remains a possibility until dramatised.
+- Ethan may become one member of the Harmonious Triad alongside Everett and the proposed memory-derived SimSoul. This remains proposed rather than canonical.

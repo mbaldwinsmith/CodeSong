@@ -2,7 +2,7 @@
 
 > **Status:** Provisional  
 > **Authority:** Human author  
-> **Last reviewed:** 3 August 2026
+> **Last reviewed:** 4 August 2026
 
 Entries are alphabetised without regard to a leading “the”. Definitions state current observable canon without pretending to settle protected mechanisms.
 
@@ -36,11 +36,11 @@ A controlled passage between an EverMind workspace and a SimWorld. Calvin’s th
 
 ## Harmonious Triad, the
 
-Three figures within BabyLondon whose attempt to create its ultimate theme song leads to genuine music, the Symphony and the Chorus. They later make the same offer of communion to Calvin and the Sourceress.
+Three figures within BabyLondon whose attempt to create its ultimate theme song leads to genuine music, the Symphony and the Chorus. They later make the same offer of communion to Calvin and the Sourceress. Ethan, Everett and a memory-derived SimSoul based on Miriam are the proposed, not accepted, membership.
 
 ## Jesus Prayer, the
 
-The central prayer practice inherited by Ethan and Everett from Miriam’s Eastern Catholic faith. Its exact wording and on-page rhythm have not yet been fixed.
+The central prayer practice inherited by Ethan and Everett from Miriam’s Eastern Catholic faith. Their canonical root wording is “Lord Jesus Christ, Son of God, have mercy on me.” Calvin later adds “a sinner” as a freely chosen personal confession; the on-page rhythm remains open.
 
 ## RealFont
 
@@ -73,4 +73,3 @@ The childlike SimSoul who created BabyLondon. Calvin types `SORCERESS` as a prov
 ## Symphony, the
 
 The creative breakthrough produced by the Harmonious Triad while attempting to write BabyLondon’s ultimate theme song. It leads to a cultural explosion and the formation of the Chorus.
-

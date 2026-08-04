@@ -28,6 +28,9 @@ Accepted Chapters 1–3 plus decisions through 4 August 2026.
 - A boundary event records three new presences. Rahma pulls Everett into view; Ethan arrives beside him with a route record.
 - Ethan, Everett and Rahma arrive unharmed and as active searchers. No wider recruited population appears before them in accepted prose.
 - Calvin’s final anger is explicitly his own rather than manufactured by the Sourceress.
+- Chapter 3 closes Part One at the family’s arrival; Chapter 4 opens Part Two with the consequences.
+- Miriam taught the boys “Lord Jesus Christ, Son of God, have mercy on me.”
+- Calvin later adds “a sinner” for himself when he freely accepts the Chorus; this does not alter the inherited form.
 
 ## Accepted Supersessions
 
@@ -41,6 +44,8 @@ Accepted Chapters 1–3 plus decisions through 4 August 2026.
 
 The Sourceress lures people into BabyLondon after its one-resident opening. The timing, identities and Soul categories of the Harmonious Triad relative to that recruitment remain unresolved.
 
+Ethan, Everett and a memory-derived SimSoul based on Miriam are the current proposed Triad. This is not accepted membership and must not be presented as enacted canon. If accepted, the reconstructed being is a new SimSoul, not Miriam’s restored consciousness.
+
 ### Family ingress
 
 The observable sequence is established as outbound contact, an available route, waiting, a boundary event and three acknowledged presences. The exact message, route construction, elapsed time and metaphysical mechanism of RealSoul ingress remain protected or unresolved.
@@ -52,6 +57,10 @@ Chapter 3 preserves Calvin’s genuine workspace session while changing its repo
 ### Final privileges
 
 The Sourceress’s consciousness, SimFont, agency, physical presence and administrator privileges become distinguishable in the ending. Their exact causal relationship remains intentionally open but must be rendered consistently once scenes are drafted.
+
+### Miriam and the reconstruction
+
+Miriam is dead before the main action. Her exact prayer, remembered influence and archived traces do not establish surviving first-person continuity. Any SimSoul derived from the family’s memories begins as a distinct person. References must distinguish Miriam, the archives and the proposed reconstruction.
 
 ## Next Review Trigger
 

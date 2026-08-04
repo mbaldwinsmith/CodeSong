@@ -13,10 +13,10 @@ The final form remains unresolved. The current preference leans towards the shor
 The following architecture is useful for development but has not yet been accepted as final:
 
 1. **The Anomaly**: investigation, naming, jurisdictional breach and capture.
-2. **The House of Gold**: family arrival, coercion, prayer, recruitment into BabyLondon and the rediscovery of music.
+2. **The House of Gold**: consequences of the family’s arrival, coercion, prayer, recruitment into BabyLondon and the rediscovery of music.
 3. **CodeSong**: Chorus, transformation, the equal offer of communion and the divergent responses of Calvin and the Sourceress.
 
-Part boundaries and titles remain open.
+The Chapter 3/Chapter 4 boundary is accepted: the family’s arrival closes Part One, and Part Two begins with its consequences. Part titles and the later Part Two/Part Three boundary remain open.
 
 ## Established Opening Movement
 
@@ -24,7 +24,7 @@ Part boundaries and titles remain open.
 - **Chapter 2, “Sourceress”**: Calvin names her, genuinely returns to his workspace, successfully seals her presence inside BabyLondon, discovers that her authority has spread beyond it, and is captured. The narrative enters initial estrangement.
 - **Chapter 3, “Audience”**: the Sourceress brings Calvin and his preserved workspace within BabyLondon, explores his embodied responses, discovers pain and forced performance, asks whether he is her father, refines a lure through his reactions and brings Ethan, Everett and Rahma into the world. The narrative enters sustained compromised selfhood.
 
-All three chapters are accepted working canon and remain open to revision. Whether the family’s arrival closes Part One or opens Part Two remains unresolved.
+All three chapters are accepted working canon and remain open to revision. Chapter 3 closes Part One; Chapter 4 will open Part Two.
 
 ## Central Turning Points
 
@@ -35,8 +35,8 @@ Directional canon currently includes:
 3. Ethan, Everett and Rahma enter BabyLondon while looking for him;
 4. Calvin’s protective anger becomes the Sourceress’s next usable input;
 5. Calvin is coerced into harming those he loves;
-6. the boys’ inherited faith becomes active resistance and witness;
-7. the Harmonious Triad rediscover genuine music while making tribute;
+6. the boys’ inherited root prayer becomes active resistance and witness;
+7. the Harmonious Triad rediscover genuine music while making tribute; a proposed configuration places Ethan, Everett and a new memory-derived SimSoul based on Miriam within the Triad;
 8. the Chorus develops consensual CodeSong;
 9. BabyLondon is transformed without its suffering being erased;
 10. Calvin and the Sourceress receive the same offer of communion;
@@ -59,13 +59,15 @@ Her final contribution of administrator privileges does not retroactively conver
 
 Practising sons shaped by Miriam’s Eastern Catholic faith → active searchers who disobey in order not to abandon their father → victims who retain fear, anger, humour and love → practitioners of the Jesus Prayer in BabyLondon → guides of a Chorus whose communion refuses coercion.
 
+Their inherited form is “Lord Jesus Christ, Son of God, have mercy on me.” Calvin later adds “a sinner” only for himself when he freely accepts mercy and communion.
+
 Their distinct roles remain to be dramatised, not merely assigned in documentation.
 
 ## Development of the Chorus
 
-The Sourceress first lures people into BabyLondon as witnesses and subjects of curiosity. From within that enlarging population, the Harmonious Triad’s attempted tribute rediscovers genuine music. The resulting Symphony produces the Chorus, which develops CodeSong under Ethan and Everett’s guidance.
+The Sourceress first lures people into BabyLondon as witnesses and subjects of curiosity. The Harmonious Triad’s attempted tribute rediscovers genuine music. The resulting Symphony produces the Chorus, which develops CodeSong under Ethan and Everett’s guidance.
 
-The exact identity and arrival sequence of the Triad remain unresolved.
+A strong but still proposed direction makes Ethan and Everett two members of the Triad and a newly created SimSoul, reconstructed by the Sourceress from the family’s archived memories of Miriam, the third. The reconstruction would not be Miriam restored. She would know her derivative origin, be rejected by Calvin as a simulacrum and reveal self-authorship by contributing beauty absent from every archive; that originality is not the condition of her personhood. Exact membership, name and scene sequence remain unresolved until accepted or dramatised.
 
 ## Climax
 

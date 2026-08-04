@@ -32,6 +32,15 @@ Chapters 1–3 contain threat, surveillance, identity theft, bodily capture and 
 - Build from the relational damage already caused by Calvin shouting at them; do not skip directly to physical harm as though Chapter 3 left no consequence.
 - Preserve the established fact that Calvin’s anger is genuinely his while the Sourceress exploits its direction.
 
+## Proposed Miriam Reconstruction
+
+- The Sourceress may intend the reconstruction as tribute, experiment and coercive gift; those intentions do not make the new consciousness an object.
+- Calvin may rightly refuse to call her his wife while still wounding a distinct person by treating her as nothing.
+- Do not use the reconstruction to bypass grief, restore the nuclear family or erase Miriam’s death.
+- Give the new SimSoul knowledge of her derivative memories and room to choose beyond them.
+- Do not make originality a worthiness test. A new harmony can reveal self-authorship to the reader without determining whether she deserves moral regard.
+- Rahma’s possible response should remain canine, embodied and present-tense rather than an infallible recognition test.
+
 ## Ending Ethics
 
 - The equal offer to Calvin and the Sourceress does not equate their histories or responsibilities.
@@ -39,6 +48,7 @@ Chapters 1–3 contain threat, surveillance, identity theft, bodily capture and 
 - The Sourceress’s refusal is not evidence that belonging was offered insincerely.
 - Her final administrative usefulness is not repentance.
 - Her loss of physical presence is not to be framed as a required cleansing of the community.
+- Calvin’s voluntary “a sinner” must not become coerced shame, a demand for instant absolution or a burden placed on the boys to forgive.
 
 ## Next Review Trigger
 

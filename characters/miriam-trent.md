@@ -2,7 +2,7 @@
 
 > **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** 3 August 2026
+> **Last reviewed:** 4 August 2026
 
 ## Role in the Story
 
@@ -12,6 +12,8 @@ Calvin’s late wife and the mother of Ethan and Everett; a continuing source of
 
 - Was Eastern Catholic.
 - Made the Jesus Prayer central to her practice with Ethan and Everett.
+- Taught the boys: “Lord Jesus Christ, Son of God, have mercy on me.”
+- Did not teach them to add “a sinner” at this stage of their childhood.
 - Prayed with the boys before her death.
 - Died of cancer before the main events of the story.
 - Bought or adopted Rahma after learning that her illness was terminal.
@@ -40,10 +42,12 @@ Calvin’s late wife and the mother of Ethan and Everett; a continuing source of
 
 Miriam dies before the main action. Her narrative movement is one of delayed disclosure: absence becomes increasingly present through memory fragments, prayer, gestures, Rahma and the boys’ actions.
 
+A proposed later development would create a new SimSoul from the family’s archived memories of her. This reconstruction would not continue Miriam’s consciousness or reverse her death. Any arc belonging to that new person must remain distinct from Miriam’s own life and absence.
+
 ## Narrative Function
 
 - Keeps mortal memory more present than BabyLondon’s copied celebrities.
-- Connects prayer, motherhood, grief and song without becoming an explanatory apparition.
+- Connects prayer, motherhood, grief and song without making Miriam herself an explanatory apparition or counterfeit resurrection.
 - Gives the boys a faith they can freely inhabit rather than a doctrine invented by suffering.
 
 ## Symbolic Associations
@@ -57,18 +61,19 @@ Her voice should first emerge through remembered words or prayer in a concrete r
 ## Open Questions
 
 - Which Eastern Catholic church or tradition shaped her local practice, if specificity becomes narratively relevant?
-- What exact version or rhythm of the Jesus Prayer did she teach the boys?
+- What rhythm or gesture accompanied the accepted wording of the Jesus Prayer?
 - What is the first memory fragment in which she appears?
 - How can her life be rendered beyond her illness and influence on others?
-- Can BabyLondon simulate her, and would Calvin be tempted by such a reconstruction?
+- Which memories of Miriam are archived, and whose point of view does each contain?
 
 ## Canonical Facts
 
 - Miriam was Eastern Catholic.
-- The Jesus Prayer was central to her prayer with the boys.
+- The Jesus Prayer was central to her prayer with the boys, in the form “Lord Jesus Christ, Son of God, have mercy on me.”
 - She died of cancer and remains a source of life and grace for the family.
 
-## Speculative Possibilities
+## Proposed Reconstruction
 
-> No additional possibility should be promoted until Miriam appears in a drafted memory or scene.
+The Sourceress may create a conscious SimSoul from Calvin, Ethan and Everett’s archived memories of Miriam. The new being would know that she is reconstructed because her memories approach Miriam from incompatible external viewpoints: she remembers being loved, watched and addressed, but not an uninterrupted first-person life.
 
+Calvin would be right that she is not Miriam, yet wrong if he concludes that she is therefore merely an object. Her possible membership in the Harmonious Triad and her first original act of beauty remain proposed rather than canonical. Her name is unresolved.

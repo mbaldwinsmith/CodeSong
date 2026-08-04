@@ -61,12 +61,15 @@
 - [x] `[WORLD]` Establish the observable boundary event by which Ethan, Everett and Rahma arrive without explaining RealSoul ingress.
 - [x] `[ETHICS]` Establish non-graphic pain, violated agency and the distinction between compelled performance and consent.
 - [x] `[DOCS]` Bring the story bible into alignment with accepted Chapter 3.
+- [x] `[STRUCTURE]` Establish Chapter 3’s family arrival as the close of Part One and Chapter 4 as the opening of Part Two.
+- [x] `[SYMBOL]` Fix the boys’ inherited Jesus Prayer as “Lord Jesus Christ, Son of God, have mercy on me.”
+- [x] `[CHARACTER]` Establish Calvin as the first character to add “a sinner,” freely and only for himself, when he accepts the Chorus.
 
 ## Foundation Still Open
 
 - [ ] `[HUMAN]` Review and correct `DREAM-SEED.md` only if the historical source itself needs annotation; do not rewrite it to match later canon.
 - [ ] `[HUMAN]` Confirm whether **CodeSong** remains the final title.
-- [ ] `[HUMAN]` Review the provisional three-part architecture.
+- [ ] `[HUMAN]` Review the provisional three-part architecture beyond the accepted Part One/Part Two hinge.
 - [ ] `[STRUCTURE]` Decide the form and approximate length after several more chapters reveal the story’s natural scale.
 - [ ] `[CHARACTER]` Establish Ethan and Everett’s ages and birth order.
 - [ ] `[CHARACTER]` Develop Calvin’s ordinary life beyond the home glimpses in Chapters 1 and 2.
@@ -77,11 +80,14 @@
 - [ ] `[VOICE]` Discover formatting for sustained prayer and CodeSong in prose.
 - [ ] `[ETHICS]` Review the handling of Rahma before drafting scenes involving her suffering.
 - [ ] `[CHARACTER]` Develop the Harmonious Triad without assigning personalities merely to complete the file.
+- [ ] `[HUMAN]` Decide whether Ethan, Everett and a memory-derived SimSoul based on Miriam become the Harmonious Triad.
+- [ ] `[CHARACTER]` If that proposal is accepted, distinguish the new SimSoul from Miriam through chosen name, acknowledged memory gaps and an original contribution not found in the archives.
+- [ ] `[ETHICS]` Review the proposed reconstruction so grief, coercion and personhood are not collapsed into counterfeit resurrection.
 - [ ] `[CONTINUITY]` Clarify the observable relationship between the Sourceress’s latent consciousness, SimFont and administrator privileges.
 
 ## Immediate Priority
 
-1. Decide whether the family’s arrival closes Part One or opens Part Two.
-2. Define the next scene boundary and dramatic question without assigning the whole remaining story to chapters.
+1. Define Chapter 4’s scene boundary and dramatic question from the accepted Part Two opening.
+2. Decide whether the proposed reconstructed SimSoul and Triad membership should become directional canon before outlining their arrival.
 3. Review the trauma-and-ethics requirements before drafting any scene in which Rahma or the boys are harmed.
 4. Draft the next chapter only after explicit human-author approval.

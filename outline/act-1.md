@@ -4,7 +4,7 @@
 > **Authority:** Human author  
 > **Last reviewed:** 4 August 2026
 
-This part title and boundary remain provisional.
+The title remains provisional. The boundary is accepted: Part One ends with Chapter 3 and the family’s arrival.
 
 ## Opening Condition
 
@@ -38,6 +38,6 @@ The Sourceress brings Calvin’s preserved workspace within BabyLondon, experime
 
 She tests a hidden lure against Calvin’s reactions. Ethan, Everett and Rahma cross in response as active searchers. Calvin warns them away; when they refuse to abandon him, his protective fear becomes anger at their disobedience. The chapter ends as the Sourceress studies where that anger can be sent.
 
-## Boundary Question
+## Accepted Boundary
 
-Chapters 1–3 now form an accepted continuous movement from anomaly through family arrival. Whether that arrival closes Part One, opens Part Two or precedes a later boundary remains open.
+Chapters 1–3 form an accepted continuous movement from anomaly through family arrival. That arrival closes Calvin’s solitary capture movement and Part One. Part Two begins with Chapter 4 and the consequences of the same hinge.
