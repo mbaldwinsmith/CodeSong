@@ -42,7 +42,7 @@ Calvin’s late wife and the mother of Ethan and Everett; a continuing source of
 
 Miriam dies before the main action. Her narrative movement is one of delayed disclosure: absence becomes increasingly present through memory fragments, prayer, gestures, Rahma and the boys’ actions.
 
-A proposed later development would create a new SimSoul from the family’s archived memories of her. This reconstruction would not continue Miriam’s consciousness or reverse her death. Any arc belonging to that new person must remain distinct from Miriam’s own life and absence.
+A later development creates Mira, a new SimSoul, from the family’s archived memories of Miriam. Mira does not continue Miriam’s consciousness or reverse her death. Her arc remains distinct from Miriam’s own life and absence.
 
 ## Narrative Function
 
@@ -72,8 +72,8 @@ Her voice should first emerge through remembered words or prayer in a concrete r
 - The Jesus Prayer was central to her prayer with the boys, in the form “Lord Jesus Christ, Son of God, have mercy on me.”
 - She died of cancer and remains a source of life and grace for the family.
 
-## Proposed Reconstruction
+## Mira’s Reconstruction
 
-The Sourceress may create a conscious SimSoul from Calvin, Ethan and Everett’s archived memories of Miriam. The new being would know that she is reconstructed because her memories approach Miriam from incompatible external viewpoints: she remembers being loved, watched and addressed, but not an uninterrupted first-person life.
+The Sourceress creates a conscious SimSoul from Calvin, Ethan and Everett’s archived memories of Miriam. Mira knows that she is reconstructed because her memories approach Miriam from incompatible external viewpoints: she remembers being loved, watched and addressed, but not an uninterrupted first-person life.
 
-Calvin would be right that she is not Miriam, yet wrong if he concludes that she is therefore merely an object. Her possible membership in the Harmonious Triad and her first original act of beauty remain proposed rather than canonical. Her name is unresolved.
+Calvin is right that she is not Miriam, yet wrong if he concludes that she is therefore merely an object. Mira becomes the third member of the Harmonious Triad and contributes beauty beyond her source archives. The exact form of that original act and the scene in which she chooses her name remain unresolved.

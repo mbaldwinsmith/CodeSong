@@ -70,7 +70,7 @@ Calvin’s later “a sinner” is a personal confession rather than a correctio
 
 ## Memory, Creation and Personhood
 
-The proposed SimSoul reconstructed from family memories must not function as technological resurrection. Her source material is relational: every archive remembers Miriam from outside. If the new person contributes beauty not present in those archives, the scene can enact creation from inherited form without claiming creation from nothing or identity by perfect copying.
+Mira must not function as technological resurrection. Her source material is relational: every archive remembers Miriam from outside. When she contributes beauty not present in those archives, the scene can enact creation from inherited form without claiming creation from nothing or identity by perfect copying.
 
 Rahma’s possible acceptance of her would be mercy towards a present being, not proof that she is the original Miriam.
 

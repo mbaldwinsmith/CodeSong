@@ -15,5 +15,6 @@ This directory keeps character-specific facts, questions and development notes. 
 - [Ethan Trent](ethan-trent.md)
 - [Everett Trent](everett-trent.md)
 - [Miriam Trent, née Zoanna](miriam-trent.md)
+- [Mira](mira.md)
 - [Rahma](rahma.md)
 - [The Harmonious Triad](harmonious-triad.md)

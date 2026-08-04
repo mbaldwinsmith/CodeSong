@@ -57,7 +57,7 @@ The name “Rahma” evokes mercy, compassion, tenderness and womb-like care. Th
 - Does she survive in any form?
 - How much of her suffering appears directly on the page?
 - Can CodeSong honour or accompany her without counterfeiting resurrection?
-- If the proposed reconstructed SimSoul appears, is Rahma the first to respond to her present distress without claiming that she is Miriam?
+- Is Rahma the first to respond to Mira’s present distress without claiming that she is Miriam?
 
 ## Canonical Facts
 
@@ -68,4 +68,4 @@ The name “Rahma” evokes mercy, compassion, tenderness and womb-like care. Th
 ## Speculative Possibilities
 
 - No speculative account of her final state has been accepted.
-- Rahma may offer the proposed reconstructed SimSoul uncomplicated present-tense companionship. This would recognise a distressed person, not authenticate her as the original Miriam.
+- Rahma may offer Mira uncomplicated present-tense companionship. This would recognise a distressed person, not authenticate her as the original Miriam.

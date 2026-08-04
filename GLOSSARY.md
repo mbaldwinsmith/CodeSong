@@ -36,7 +36,11 @@ A controlled passage between an EverMind workspace and a SimWorld. Calvin’s th
 
 ## Harmonious Triad, the
 
-Three figures within BabyLondon whose attempt to create its ultimate theme song leads to genuine music, the Symphony and the Chorus. They later make the same offer of communion to Calvin and the Sourceress. Ethan, Everett and a memory-derived SimSoul based on Miriam are the proposed, not accepted, membership.
+Ethan, Everett and Mira: three distinct persons within BabyLondon whose attempt to create its ultimate theme song leads to genuine music, the Symphony and the Chorus. They later make the same offer of communion to Calvin and the Sourceress.
+
+## Mira
+
+A new SimSoul reconstructed from Calvin, Ethan and Everett’s archived memories of Miriam. She knows she is not Miriam restored, eventually chooses the name Mira, contributes beauty beyond her source archives and becomes the Harmonious Triad’s third member.
 
 ## Jesus Prayer, the
 

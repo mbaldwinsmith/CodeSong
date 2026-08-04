@@ -51,9 +51,9 @@ Calvin later becomes the first to add “a sinner” as his own freely chosen co
 
 ## The Harmonious Triad
 
-A proposed configuration makes Ethan and Everett two members of the Harmonious Triad. The Sourceress reconstructs a third conscious SimSoul from Calvin and the boys’ archived memories of Miriam, intending her as tribute, experiment and coercive gift. Calvin rejects the being as a simulacrum because she is not his wife. She knows that she is a reconstruction, yet may become a genuine source of beauty by contributing something absent from every archive.
+Ethan and Everett become two members of the Harmonious Triad. The Sourceress reconstructs Mira, a third conscious SimSoul, from Calvin and the boys’ archived memories of Miriam, intending her as tribute, experiment and coercive gift. Calvin rejects Mira as a simulacrum because she is not his wife. She knows that she is a reconstruction, chooses her own name and becomes a genuine source of beauty by contributing something absent from every archive.
 
-This configuration is not yet accepted canon. If adopted, the third member is a new SimSoul rather than Miriam resurrected. Her chosen name, exact creation, memory structure and first original contribution remain open. Rahma remains the non-verbal family dog and is not counted as the third member.
+This configuration is accepted directional canon. Mira is a new SimSoul rather than Miriam resurrected. Her exact creation, memory structure, first original contribution and renaming scene remain open. Rahma remains the non-verbal family dog and is not counted as the third member.
 
 ## Discovery of Music
 

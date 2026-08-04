@@ -47,7 +47,7 @@ Son of Calvin and Miriam; brother of Everett; practising Eastern Catholic child;
 - **Miriam:** late mother and source of inherited prayer and faith.
 - **Everett:** brother and complementary co-guide of the Chorus.
 - **Rahma:** family puppy he helps bring to comfort Calvin.
-- **Proposed reconstructed SimSoul:** possible third member of the Harmonious Triad; a new person shaped partly by Ethan’s archived memories of Miriam, not his mother restored.
+- **Mira:** third member of the Harmonious Triad; a new SimSoul shaped partly by Ethan’s archived memories of Miriam, not his mother restored.
 
 ## Character Arc
 
@@ -81,4 +81,4 @@ Ethan can preserve structure, verbal continuity, promises and moral distinctions
 ## Speculative Possibilities
 
 - Ethan may become a keeper of wording, sequence or ethical boundaries within the Chorus. This remains a possibility until dramatised.
-- Ethan may become one member of the Harmonious Triad alongside Everett and the proposed memory-derived SimSoul. This remains proposed rather than canonical.
+- Ethan becomes one member of the Harmonious Triad alongside Everett and Mira.

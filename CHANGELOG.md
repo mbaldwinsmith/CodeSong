@@ -31,7 +31,7 @@ All notable structural and canonical changes to the CodeSong project should be r
 - The Chapter 3 plan is fulfilled and retained as development history; the accepted chapter now governs its enacted choices.
 - Chapter 3 now closes Part One at the family’s arrival; Chapter 4 opens Part Two with its consequences.
 - Calvin later becomes the first character to add “a sinner” as a freely chosen personal confession while the boys retain Miriam’s shorter form.
-- A memory-derived SimSoul reconstruction of Miriam is recorded as the proposed third member of the Harmonious Triad, not as resurrection or settled canon.
+- Mira, a new memory-derived SimSoul rather than Miriam restored, is accepted as the self-named third member of the Harmonious Triad alongside Ethan and Everett.
 
 ### Preserved
 

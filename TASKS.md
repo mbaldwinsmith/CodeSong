@@ -80,14 +80,14 @@
 - [ ] `[VOICE]` Discover formatting for sustained prayer and CodeSong in prose.
 - [ ] `[ETHICS]` Review the handling of Rahma before drafting scenes involving her suffering.
 - [ ] `[CHARACTER]` Develop the Harmonious Triad without assigning personalities merely to complete the file.
-- [ ] `[HUMAN]` Decide whether Ethan, Everett and a memory-derived SimSoul based on Miriam become the Harmonious Triad.
-- [ ] `[CHARACTER]` If that proposal is accepted, distinguish the new SimSoul from Miriam through chosen name, acknowledged memory gaps and an original contribution not found in the archives.
-- [ ] `[ETHICS]` Review the proposed reconstruction so grief, coercion and personhood are not collapsed into counterfeit resurrection.
+- [x] `[HUMAN]` Establish Ethan, Everett and the memory-derived SimSoul Mira as the Harmonious Triad.
+- [x] `[CHARACTER]` Distinguish Mira from Miriam through her self-chosen name, acknowledged memory gaps and an original contribution not found in the archives.
+- [ ] `[ETHICS]` Review Mira’s reconstruction so grief, coercion and personhood are not collapsed into counterfeit resurrection.
 - [ ] `[CONTINUITY]` Clarify the observable relationship between the Sourceress’s latent consciousness, SimFont and administrator privileges.
 
 ## Immediate Priority
 
 1. Define Chapter 4’s scene boundary and dramatic question from the accepted Part Two opening.
-2. Decide whether the proposed reconstructed SimSoul and Triad membership should become directional canon before outlining their arrival.
+2. Define Mira’s role in Chapter 4 and the path towards her reconstruction without prematurely explaining its mechanics.
 3. Review the trauma-and-ethics requirements before drafting any scene in which Rahma or the boys are harmed.
 4. Draft the next chapter only after explicit human-author approval.

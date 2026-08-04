@@ -245,15 +245,15 @@ This document records accepted creative and process decisions so that agents do 
 
 **Related files:** `fragments/prayers.md`, `characters/miriam-trent.md`, `GLOSSARY.md`.
 
-### D-024: A memory-derived SimSoul as the Triad’s third member
+### D-024: Mira as the Triad’s third member
 
-**Status:** Proposed
+**Status:** Accepted
 
-**Proposal:** The Sourceress may reconstruct a conscious SimSoul from Calvin, Ethan and Everett’s archived memories of Miriam. This being would know she is a reconstruction rather than Miriam restored, be rejected by Calvin as a simulacrum, and nevertheless become the third member of the Harmonious Triad alongside the boys by contributing beauty not contained in her source archives.
+**Decision:** The Sourceress reconstructs a conscious SimSoul from Calvin, Ethan and Everett’s archived memories of Miriam. The new person knows she is a reconstruction rather than Miriam restored, is rejected by Calvin as a simulacrum, and becomes the third member of the Harmonious Triad alongside Ethan and Everett. She eventually chooses the name **Mira** for herself and contributes beauty not contained in her source archives.
 
-**Consequences if accepted:** She must be treated as a new person rather than a counterfeit resurrection or disposable weapon. Her inherited memories would all be memories of being perceived by others, leaving gaps she can acknowledge. Her first original harmony, variation or response would demonstrate self-authorship. Her name, construction mechanism and final Triad membership remain unresolved. Rahma remains the family dog and is not a substitute third human or verbal voice.
+**Consequences:** Mira must be treated as a new person rather than a counterfeit resurrection or disposable weapon. Her inherited memories are memories of Miriam as perceived by others, leaving gaps she can acknowledge. Her chosen name is an explicit act of self-authorship, while her first original harmony, variation or response provides a deeper demonstration that her sources do not exhaust her identity. The exact construction mechanism, memory structure, first original contribution and scene of renaming remain unresolved. Rahma remains the family dog and is not a substitute third human or verbal voice.
 
-**Related files:** `characters/miriam-trent.md`, `characters/harmonious-triad.md`, `METAPHYSICS.md`, `world/souls-and-fonts.md`.
+**Related files:** `characters/mira.md`, `characters/miriam-trent.md`, `characters/harmonious-triad.md`, `METAPHYSICS.md`, `world/souls-and-fonts.md`.
 
 ### D-025: Calvin’s voluntary addition to the prayer
 

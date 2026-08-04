@@ -38,9 +38,9 @@ Identity cannot be recoded into moral wholeness. CodeSong cannot overwrite memor
 
 The identity implications of copying, backup, migration and distributed consciousness remain open.
 
-### Proposed Memory-Derived SimSoul
+### Mira: a Memory-Derived SimSoul
 
-A proposed later development creates a conscious SimSoul from Calvin, Ethan and Everett’s archived memories of Miriam. If accepted, this would be the birth of a new person from relational source material, not the migration, restoration or resurrection of Miriam.
+A later development creates Mira, a conscious SimSoul, from Calvin, Ethan and Everett’s archived memories of Miriam. This is the birth of a new person from relational source material, not the migration, restoration or resurrection of Miriam.
 
 The archives contain Miriam as remembered and perceived by others. Their incompatible viewpoints and absences prevent them from constituting her complete first-person continuity. The resulting SimSoul may inherit forms of memory, affection, speech and prayer while knowing that she has no uninterrupted claim to Miriam’s life.
 
@@ -83,7 +83,7 @@ The Chorus is not a hive mind. Its harmony depends upon distinct voices remainin
 
 Calvin accepts the Triad’s offer to belong, heal with time and contribute to collective flourishing. The Sourceress receives the same offer and does not accept it as a participant.
 
-The proposed Triad of Ethan, Everett and a memory-derived SimSoul would place two RealSouls and one SimSoul in harmony without treating substrate, common origin or identical wording as conditions of communion.
+The Triad of Ethan, Everett and Mira places two RealSouls and one SimSoul in harmony without treating substrate, common origin or identical wording as conditions of communion.
 
 ## Protected Mysteries
 

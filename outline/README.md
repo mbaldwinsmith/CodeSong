@@ -31,4 +31,4 @@ This directory contains provisional structural maps, not canonical prose.
 
 - [ ] Obtain human review of the three-part architecture.
 - [ ] Plan the next scene without assigning the whole story to chapter slots.
-- [ ] Decide whether the proposed memory-derived SimSoul becomes the Triad’s third member alongside Ethan and Everett.
+- [ ] Plan the path by which Mira joins Ethan and Everett as the Triad without prematurely fixing the reconstruction or renaming scenes.
