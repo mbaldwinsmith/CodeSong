@@ -2,23 +2,23 @@
 
 > **Status:** Provisional  
 > **Authority:** Human author  
-> **Last reviewed:** 3 August 2026
+> **Last reviewed:** 4 August 2026
 
 This part title, boundary and allocation of events remain provisional. The outcomes below are directional canon; their scene form is not fixed.
 
 ## Calvin’s Compromise
 
-Calvin’s bodily and narrative agency becomes increasingly divided. The prose admits third person, code, commands, broadcasts and first-person fragments without losing the basic event sequence.
+Chapter 3 has already established Calvin’s compromised grammar and the Sourceress’s initial bodily controls. The later movement may deepen that division through third person, code, commands, broadcasts, prayer and first-person fragments without losing the basic event sequence.
 
 ## Expansion of BabyLondon
 
 The Sourceress lures people into BabyLondon to witness her tributes and to satisfy her curiosity. The world moves from one registered resident towards a culture capable of spectacle, suffering and eventually genuine creation.
 
-The identities, Soul categories and precise arrival sequence of these people remain open, including whether recruitment begins before, during or after the family’s arrival.
+The family arrives before any wider recruited population appears in accepted prose. The identities, Soul categories and precise arrival sequence of the later people remain open.
 
 ## Arrival of the Family
 
-Ethan and Everett come looking for Calvin after he fails to return. They bring Rahma to comfort him. Calvin is surprised, appalled and angry that they have exposed themselves to BabyLondon; the Sourceress twists that fear and anger.
+Accepted Chapter 3 establishes that Ethan and Everett come looking for Calvin after he fails to return and bring Rahma to comfort him. They arrive with a route record and lead, identify Calvin’s compromised smile and refuse to leave him. Calvin is surprised, appalled and angry that they have exposed themselves to BabyLondon; the Sourceress begins studying that fear and anger.
 
 The exact mechanism of RealSoul ingress remains protected.
 

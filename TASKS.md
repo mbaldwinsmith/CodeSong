@@ -2,7 +2,7 @@
 
 > **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** 3 August 2026
+> **Last reviewed:** 4 August 2026
 
 ## Task Labels
 
@@ -51,6 +51,17 @@
 - [x] `[STRUCTURE]` Replace literal Sourceress self-erasure with her accepted latent distributed ending.
 - [x] `[DOCS]` Bring the story bible into alignment with Chapters 1 and 2 and the accepted decisions of 3 August 2026.
 
+## Chapter 3: Audience
+
+- [x] `[STRUCTURE]` Plan Chapter 3 from Calvin’s stopped hand through the family’s arrival.
+- [x] `[HUMAN]` Approve drafting Chapter 3.
+- [x] `[PROSE]` Draft Chapter 3, “Audience”.
+- [x] `[HUMAN]` Accept Chapter 3 as working canon open to revision.
+- [x] `[VOICE]` Calibrate sustained compromised narration while preserving Calvin’s interior `I`.
+- [x] `[WORLD]` Establish the observable boundary event by which Ethan, Everett and Rahma arrive without explaining RealSoul ingress.
+- [x] `[ETHICS]` Establish non-graphic pain, violated agency and the distinction between compelled performance and consent.
+- [x] `[DOCS]` Bring the story bible into alignment with accepted Chapter 3.
+
 ## Foundation Still Open
 
 - [ ] `[HUMAN]` Review and correct `DREAM-SEED.md` only if the historical source itself needs annotation; do not rewrite it to match later canon.
@@ -62,9 +73,7 @@
 - [ ] `[CHARACTER]` Determine the first Miriam memory fragment and its trigger.
 - [ ] `[WORLD]` Define the relationship between physical time and EverMind time if the plot requires it.
 - [ ] `[WORLD]` Establish only the administrator limits needed by upcoming scenes.
-- [ ] `[WORLD]` Establish the observable sequence by which Ethan, Everett and Rahma reach Calvin without explaining RealSoul ingress.
 - [ ] `[WORLD]` Define the limits of death and resuscitation within BabyLondon before drafting Rahma’s suffering.
-- [ ] `[VOICE]` Calibrate the first sustained compromised-self scene after Chapter 2.
 - [ ] `[VOICE]` Discover formatting for sustained prayer and CodeSong in prose.
 - [ ] `[ETHICS]` Review the handling of Rahma before drafting scenes involving her suffering.
 - [ ] `[CHARACTER]` Develop the Harmonious Triad without assigning personalities merely to complete the file.
@@ -72,9 +81,7 @@
 
 ## Immediate Priority
 
-1. Human review of the Chapter 3 plan.
-2. Resolve only the remaining questions required to draft Chapter 3.
-3. Draft Chapter 3 only after explicit human-author approval.
-
-Do not draft Chapter 3 until the human author explicitly requests it.
-
+1. Decide whether the family’s arrival closes Part One or opens Part Two.
+2. Define the next scene boundary and dramatic question without assigning the whole remaining story to chapters.
+3. Review the trauma-and-ethics requirements before drafting any scene in which Rahma or the boys are harmed.
+4. Draft the next chapter only after explicit human-author approval.

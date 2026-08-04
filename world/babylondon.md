@@ -2,7 +2,7 @@
 
 > **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** 3 August 2026
+> **Last reviewed:** 4 August 2026
 
 ## Definition
 
@@ -26,8 +26,10 @@ A SimWorld is a bounded experiential world operating within the EverMind. BabyLo
 - BabyLondon’s world-owner can alter local style and matter.
 - The world boundary can be sealed while its owner’s recognised administrator authority operates elsewhere.
 - The field threshold used by Calvin works correctly in both directions.
+- After Calvin’s administrative capture, his genuine central workspace reports itself as preserved while BabyLondon becomes its containing world. No crossing mechanism or false-workspace explanation is established.
+- The Sourceress can manipulate Calvin’s simulated embodiment locally and prepare an outbound route without exposing the deeper path by which RealSouls cross the boundary.
 - BabyLondon later gains inhabitants because the Sourceress lures people to witness her tributes and to satisfy her curiosity.
-- Ethan, Everett and Rahma later enter while searching for Calvin; the exact ingress mechanism remains protected.
+- Ethan, Everett and Rahma enter while searching for Calvin after an outbound lure and a `BOUNDARY EVENT`; the exact ingress mechanism remains protected.
 - The Harmonious Triad and Chorus emerge within the enlarged world.
 - CodeSong transforms BabyLondon without erasing its suffering or recoding its inhabitants’ identities.
 
@@ -35,11 +37,11 @@ A SimWorld is a bounded experiential world operating within the EverMind. BabyLo
 
 - The Sourceress begins alone.
 - Calvin becomes the first recorded RealSoul visitor and first captive.
-- Ethan, Everett and Rahma later enter in search of Calvin.
-- The Sourceress also lures people as witnesses and subjects of curiosity.
+- Ethan, Everett and Rahma become the next observed presences after entering in search of Calvin.
+- The Sourceress later lures further people as witnesses and subjects of curiosity.
 - The Harmonious Triad and eventual Chorus arise within the growing population.
 
-The order and overlap of family arrival and wider recruitment, and the Soul categories of later inhabitants, remain unresolved.
+The family’s arrival is established before any wider recruited population appears in accepted prose. The identities, Soul categories and precise recruitment sequence of later inhabitants remain unresolved.
 
 ## Transformation
 

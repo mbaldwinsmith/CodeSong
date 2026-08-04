@@ -2,11 +2,11 @@
 
 > **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** 3 August 2026
+> **Last reviewed:** 4 August 2026
 
 ## Current Scope
 
-Chapters 1 and 2 contain threat, surveillance, identity theft and bodily capture but do not yet depict torture, child suffering or animal suffering.
+Chapters 1–3 contain threat, surveillance, identity theft, bodily capture and Calvin’s first non-graphic torture. Ethan, Everett and Rahma arrive at the end of Chapter 3 but are not harmed within it.
 
 ## Established Ethical Frame
 
@@ -15,6 +15,11 @@ Chapters 1 and 2 contain threat, surveillance, identity theft and bodily capture
 - The boys enter as practising children with humour and rules, not pre-formed symbols of innocent suffering.
 - Rahma appears first as a loved, comic household presence.
 - The Sourceress is treated as a person and childlike consciousness without excusing her choices.
+- Pain is localised and conveyed through violated agency, anticipation and consequence rather than anatomical spectacle.
+- The moral turn is explicit: the Sourceress stops when an answer becomes useful, not when Calvin says stop.
+- Compelled applause, smiling and speech are distinguished from consent and genuine approval.
+- Calvin retains tactical resistance and witness even when his body supplies involuntary information.
+- The family arrives as active searchers with recognisable fear, competence and attachment rather than as passive victims.
 
 ## Required Review Before Family-Harm Scenes
 
@@ -24,6 +29,8 @@ Chapters 1 and 2 contain threat, surveillance, identity theft and bodily capture
 - Keep the Sourceress’s curiosity from becoming an excuse that dissolves responsibility.
 - Distinguish survival, revival, restoration and healing.
 - Ensure the boys’ awakened faith does not make suffering appear instrumentally necessary.
+- Build from the relational damage already caused by Calvin shouting at them; do not skip directly to physical harm as though Chapter 3 left no consequence.
+- Preserve the established fact that Calvin’s anger is genuinely his while the Sourceress exploits its direction.
 
 ## Ending Ethics
 
@@ -35,5 +42,4 @@ Chapters 1 and 2 contain threat, surveillance, identity theft and bodily capture
 
 ## Next Review Trigger
 
-Review the full beat sheet before any scene in which Calvin harms Rahma or the boys is drafted.
-
+Review the full beat sheet before any scene in which Calvin harms Rahma or the boys is drafted. Chapter 3’s restraint is the minimum ethical baseline, not a requirement that every later consequence remain equally indirect.

@@ -2,24 +2,25 @@
 
 > **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** 3 August 2026
+> **Last reviewed:** 4 August 2026
 
 ## Calvin
 
-The opening successfully establishes competence before compromise. His missed dinner promise gives capture a family consequence without prematurely invoking Miriam. Future scenes should preserve intelligence and professional awareness even as bodily agency fails.
+The opening successfully establishes competence before compromise. Chapter 3 preserves his intelligence and professional awareness during bodily capture, then makes his missed dinner promise a family consequence. He remains capable of saying no inwardly, distinguishing performance from assent and recognising his anger as his own even after shouting through compromised circumstances.
 
 The accepted endpoint is participatory healing over time, not restored invulnerability.
 
 ## The Sourceress
 
-Her name develops from Calvin’s classification into her self-claim. Her pleasure in successful imitation remains legible without explanatory interiority. Later curiosity must not make cruelty accidental, and later usefulness must not imply remorse.
+Her name develops from Calvin’s classification into her self-claim. Chapter 3 turns imitation into experimental interrogation: she wants recognition from an independent audience, discovers that compelled praise is empty, asks Calvin to be her father and nevertheless continues after he says stop. Her curiosity explains the route into deliberate cruelty without making the outcome accidental. Later usefulness must not imply remorse.
 
 ## Ethan and Everett
 
-The opening home messages already support their accepted distinction:
+The home messages and Chapter 3 arrival support their accepted distinction:
 
 - Ethan invokes the rule and Calvin’s promise.
-- Everett confirms the concrete time and supplies the quiet joke about Rahma.
+- Ethan brings the route record, orders the facts and physically protects Everett.
+- Everett confirms the concrete time, supplies the quiet joke about Rahma, notices the false smile and names the need for comfort.
 
 Future scenes should deepen this difference without turning Ethan into pure structure or Everett into pure intuition.
 
@@ -30,4 +31,3 @@ Her deliberate absence from Calvin’s opening thoughts is productive. Her first
 ## Harmonious Triad
 
 Their accepted narrative function is strong, but no individual character work has yet been earned. Do not assign three schematic personalities merely because the file has space.
-

@@ -2,7 +2,7 @@
 
 > **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** 3 August 2026
+> **Last reviewed:** 4 August 2026
 
 ## Purpose
 
@@ -11,7 +11,7 @@ This document is the navigation hub for the project’s character, world, metaph
 ## Current Canon State
 
 - `DREAM-SEED.md` remains the protected record of the originating dream.
-- Chapters 1 and 2 are accepted working canon, open to editing.
+- Chapters 1–3 are accepted working canon, open to editing.
 - Later-story decisions recorded in `DECISIONS.md` are directional canon even where their scene form remains undiscovered.
 - The story’s final length and exact chapter architecture remain open.
 - The Sourceress’s latent final state supersedes the dream seed’s literal self-erasure as present canon; the original version remains preserved in the seed.
@@ -53,4 +53,3 @@ Record only the degree of certainty actually granted:
 - **Working inference:** follows from accepted material but has not been confirmed.
 - **Speculative possibility:** an option, not canon.
 - **Protected mystery:** intentionally left without a mechanical explanation.
-

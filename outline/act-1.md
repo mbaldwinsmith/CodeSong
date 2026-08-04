@@ -2,7 +2,7 @@
 
 > **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** 3 August 2026
+> **Last reviewed:** 4 August 2026
 
 This part title and boundary remain provisional.
 
@@ -32,7 +32,12 @@ Each containment procedure gives the Sourceress another authorised form to imita
 
 The narrative moves from possessed first person into initial estrangement.
 
+## Audience and Family Arrival
+
+The Sourceress brings Calvin’s preserved workspace within BabyLondon, experiments with his divided embodiment and discovers that pain yields involuntary information. She wants genuine approval from her first independent audience but learns that forced performance cannot supply it. Her questions reach fatherhood, and Calvin refuses both praise and the relation she tries to claim.
+
+She tests a hidden lure against Calvin’s reactions. Ethan, Everett and Rahma cross in response as active searchers. Calvin warns them away; when they refuse to abandon him, his protective fear becomes anger at their disobedience. The chapter ends as the Sourceress studies where that anger can be sent.
+
 ## Boundary Question
 
-Chapter 3 continues directly from Calvin's capture through the Sourceress's first sustained exploration of him and her administrator powers. She learns his emotional triggers and uses them to lure Ethan, Everett and Rahma into BabyLondon. Whether their arrival closes Part One or the boundary falls later remains open.
-
+Chapters 1–3 now form an accepted continuous movement from anomaly through family arrival. Whether that arrival closes Part One, opens Part Two or precedes a later boundary remains open.

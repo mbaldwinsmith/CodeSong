@@ -2,7 +2,7 @@
 
 > **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** 3 August 2026
+> **Last reviewed:** 4 August 2026
 
 ## Purpose
 
@@ -30,17 +30,18 @@ Third person first intrudes around bodily action. Calvin remains capable of reco
 
 ### State 3: Compromised Self
 
-**Planned modes:**
+**Primary pronouns:** `I`, `Calvin`, `he` and `his`<br>
+**Established location:** Chapter 3
 
-- third-person prose;
-- first-person fragments;
-- system code;
-- commands;
-- Sourceress broadcasts;
-- the boys’ dialogue and prayers;
-- memory fragments of Miriam.
+Calvin no longer experiences action, intention and identity as fully unified. Chapter 3 establishes the working grammar:
 
-Calvin no longer experiences action, intention and identity as fully unified. First person survives most strongly in love, memory, resistance and witness. The exact degree of the Sourceress’s control remains a scene-level question and must not be flattened into a single mechanism.
+- first person remains available for perception, intention, judgement, tactical resistance and witness;
+- `Calvin`, `he` and `his` intrude chiefly around bodily movement, expression or speech authored by the Sourceress;
+- involuntary breath, pulse, flinch and pain response may contradict Calvin’s chosen answer without replacing it;
+- system code records measurable effects while leaving the control mechanism unexplained;
+- the prose may move between first and third person within one beat when intention and enactment divide.
+
+This is an evidential grammar rather than an infallible annotation scheme. First person does not guarantee full bodily control, and third person does not mean Calvin’s interior personhood has disappeared. Later compromised scenes may also admit prayer, memory fragments and other voices, but Chapter 3 has not yet calibrated those forms.
 
 ### State 4: Ambiguous Plural
 
@@ -65,7 +66,7 @@ Calvin breaks down and accepts the Triad’s offer of belonging, healing with ti
 | Mode | Function | Current convention |
 |---|---|---|
 | First-person prose | Calvin’s experienced subjectivity | Standard prose |
-| Third-person Calvin | Bodily estrangement or dissociation | Intrudes without an explanatory label |
+| Third-person Calvin | Bodily estrangement or externally authored action | Intrudes without an explanatory label; established in Chapter 3 |
 | Second person | Intrusion, accusation or imposed identity | Use sparingly |
 | Early `we` | Threatened assimilation | Source may be ambiguous |
 | Choral `we` | Communion among distinct persons | Must retain distinguishable voices |
@@ -75,6 +76,8 @@ Calvin breaks down and accepts the Triad’s offer of belonging, healing with ti
 | Capitalised broadcasts | Sourceress transmissions | Inline code or fenced block |
 | Prayer | Relational continuity and rhythmic resistance | Human language, exact layout unresolved |
 | CodeSong | Participatory creation through coordinated difference | To be discovered in its first full scene |
+
+Compelled dialogue remains ordinary dialogue on the page, with surrounding attribution and first-person contradiction carrying the split between spoken performance and genuine answer.
 
 ## Epistemic Rule
 
@@ -96,4 +99,3 @@ Fragmentation may show the effects of RealSoul ingress, authority copying and Co
 ## Change Control
 
 Any major change to this system must be recorded in `DECISIONS.md`.
-

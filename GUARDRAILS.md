@@ -2,7 +2,7 @@
 
 > **Status:** Provisional  
 > **Authority:** Human author  
-> **Last reviewed:** 3 August 2026
+> **Last reviewed:** 4 August 2026
 
 ## Moral and Narrative Guardrails
 
@@ -34,6 +34,10 @@
 26. Her formation by celebrity consumer culture explains aspects of her condition but does not erase her agency.
 27. Christian elements should emerge through prayer, action, relationship and material consequence rather than argument.
 28. Hope must not require the story to pretend that irreversible damage never occurred.
+29. Compelled movement, speech, smiling or applause must not be narrated as consent, belief or genuine approval.
+30. Involuntary bodily responses may disclose information without becoming moral permission or a freely chosen answer.
+31. Simulated pain experienced through a RealSoul’s living nervous system is real harm even without visible injury.
+32. The Sourceress’s childlike questions and desire for recognition explain the form of her inquiry but do not excuse her decision to continue after Calvin says stop.
 
 ## Mystery Guardrails
 

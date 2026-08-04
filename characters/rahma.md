@@ -2,7 +2,7 @@
 
 > **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** 3 August 2026
+> **Last reviewed:** 4 August 2026
 
 ## Role in the Story
 
@@ -14,7 +14,8 @@ The Trent family’s yellow Labrador puppy, a living bond with Miriam, a comic p
 - Is intended to bring life, comfort and companionship after Miriam’s death.
 - Steals an item in Chapter 1 and appears with Calvin’s missing sock in Chapter 2.
 - Is jokingly named lead complainant when Calvin misses dinner.
-- Is brought into BabyLondon by Ethan and Everett to comfort Calvin.
+- Pulls Everett into view at BabyLondon’s boundary event and is brought by both boys to comfort Calvin.
+- Recognises Calvin immediately, reaches his knees and presses her head against his motionless hand while he is unable to touch her.
 - Is tortured and killed by Calvin under the Sourceress’s coercion.
 - Is repeatedly resuscitated by the Sourceress.
 - Is continually soothed and comforted by Calvin while he is forced to harm her.
@@ -64,4 +65,3 @@ The name “Rahma” evokes mercy, compassion, tenderness and womb-like care. Th
 ## Speculative Possibilities
 
 > No speculative account of her final state has been accepted.
-

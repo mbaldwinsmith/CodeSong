@@ -2,11 +2,11 @@
 
 > **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** 3 August 2026
+> **Last reviewed:** 4 August 2026
 
 ## Scope
 
-Chapters 1 and 2 plus accepted decisions through 3 August 2026.
+Accepted Chapters 1–3 plus decisions through 4 August 2026.
 
 ## Confirmed Continuity
 
@@ -20,6 +20,14 @@ Chapters 1 and 2 plus accepted decisions through 3 August 2026.
 - No Miriam memory, torture or family entry occurs in the first two chapters.
 - Calvin’s `AUTHORITY: OBSERVATION` is his ordinary local role, while his central administrator status permits the initial narrow forensic style suspension.
 - The square’s unauthorised restoration after four seconds, misattributed to Calvin in the audit, is the first permissions breach.
+- Chapter 3 continues on the exact stopped-hand beat with no discontinuity.
+- Calvin’s session remains his genuine preserved central workspace even when BabyLondon becomes its reported containing world; no false-workspace twist is introduced.
+- Calvin becomes the first tortured soul before the family arrives.
+- Forced bodily performance does not produce genuine approval, and the chapter does not establish mind editing.
+- The Sourceress sends a hidden lure to two recipients after testing authentic fragments against Calvin’s responses.
+- A boundary event records three new presences. Rahma pulls Everett into view; Ethan arrives beside him with a route record.
+- Ethan, Everett and Rahma arrive unharmed and as active searchers. No wider recruited population appears before them in accepted prose.
+- Calvin’s final anger is explicitly his own rather than manufactured by the Sourceress.
 
 ## Accepted Supersessions
 
@@ -33,9 +41,13 @@ Chapters 1 and 2 plus accepted decisions through 3 August 2026.
 
 The Sourceress lures people into BabyLondon after its one-resident opening. The timing, identities and Soul categories of the Harmonious Triad relative to that recruitment remain unresolved.
 
-### Family arrival
+### Family ingress
 
-Ethan, Everett and Rahma enter while looking for Calvin, but the observable route and elapsed time are not established. The metaphysical mechanism of RealSoul ingress is protected.
+The observable sequence is established as outbound contact, an available route, waiting, a boundary event and three acknowledged presences. The exact message, route construction, elapsed time and metaphysical mechanism of RealSoul ingress remain protected or unresolved.
+
+### Workspace containment
+
+Chapter 3 preserves Calvin’s genuine workspace session while changing its reported containing world to BabyLondon. Whether Calvin moved, the world moved or a classification changed remains deliberately unresolved.
 
 ### Final privileges
 
@@ -43,5 +55,4 @@ The Sourceress’s consciousness, SimFont, agency, physical presence and adminis
 
 ## Next Review Trigger
 
-Review again after a Chapter 3 beat sheet establishes the immediate aftermath of the stopped hand.
-
+Review again after the next scene is outlined, and before any prose in which Calvin harms Rahma or the boys is accepted.

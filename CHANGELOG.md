@@ -7,7 +7,12 @@ All notable structural and canonical changes to the CodeSong project should be r
 ### Added
 
 - Chapter 1, “Anomaly”, and Chapter 2, “Sourceress”, as accepted working canon open to revision.
+- Chapter 3, “Audience”, as accepted working canon open to revision.
 - The first involuntary third-person intrusion at the close of Chapter 2.
+- Sustained compromised narration in which Calvin’s interior `I` survives while third person marks bodily action authored by the Sourceress.
+- Direct sensory and motor coercion through Calvin’s simulated embodiment, including non-graphic pain that reaches his living nervous system.
+- The Sourceress’s first independent audience, her desire for genuine praise, her father question and the limit between compelled performance and freely given approval.
+- Ethan, Everett and Rahma’s arrival as active searchers after the Sourceress refines a lure through Calvin’s involuntary responses.
 - Accepted baseline distinctions between Ethan and Everett.
 - Miriam’s Eastern Catholic faith and the Jesus Prayer as the family’s central inherited practice.
 - BabyLondon’s movement from one registered resident to a population lured by the Sourceress.
@@ -22,12 +27,14 @@ All notable structural and canonical changes to the CodeSong project should be r
 - Calvin and the Sourceress receive the same offer of communion from the Harmonious Triad; Calvin accepts.
 - The Sourceress’s ending now preserves her as a latent distributed consciousness without physical presence. She does not erase her SimFont or die.
 - The project’s current phase is now working canon and documentation rather than initial foundation.
+- The Chapter 3 plan is fulfilled and retained as development history; the accepted chapter now governs its enacted choices.
 
 ### Preserved
 
 - `DREAM-SEED.md` remains unchanged as the authoritative record of the originating dream, including its earlier self-erasure ending.
 - The exact mechanism of RealSoul ingress remains unresolved.
 - The deepest mechanisms of copied authority and CodeSong remain protected mysteries.
+- The exact mechanism by which Calvin’s workspace becomes contained within BabyLondon and the three new presences cross its boundary remains unexplained.
 
 ## 3 August 2026: Repository initialisation
 

@@ -2,7 +2,7 @@
 
 > **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** 3 August 2026
+> **Last reviewed:** 4 August 2026
 
 ## Role in the Story
 
@@ -13,7 +13,11 @@ Son of Calvin and Miriam; brother of Everett; practising Eastern Catholic child;
 - Prayed with Miriam, for whom the Jesus Prayer was central.
 - Continues attending church with Calvin and Everett after her death.
 - Enforces Calvin’s nineteen-hundred dinner hard stop in Chapter 2.
-- Later enters BabyLondon looking for Calvin and brings Rahma with Everett to comfort him.
+- Enters BabyLondon looking for Calvin, carrying a route record and arriving beside Everett rather than behind him.
+- Steps protectively between Everett and the pyramid.
+- Explains the held and altered message in factual sequence and refuses to leave Calvin behind.
+- Obeys Calvin’s first freely effective instruction in BabyLondon by stopping, but rejects the command to abandon him.
+- Brings Rahma with Everett to comfort Calvin.
 - Becomes the third or fourth tortured soul in BabyLondon, after Calvin and Rahma.
 - Is harmed through a compromised Calvin.
 - Remains loving despite the Sourceress’s attempts to corrupt him.
@@ -68,10 +72,10 @@ Ethan can preserve structure, verbal continuity, promises and moral distinctions
 ## Canonical Facts
 
 - Ethan is more structured, verbal, protective and rule-oriented than Everett.
+- His Chapter 3 arrival enacts those traits through the route record, ordered explanation and physical protection of Everett.
 - He enters BabyLondon as a practising Christian; he does not begin there as an unbeliever.
 - He remains a distinct child, not a saintly abstraction.
 
 ## Speculative Possibilities
 
 - Ethan may become a keeper of wording, sequence or ethical boundaries within the Chorus. This remains a possibility until dramatised.
-

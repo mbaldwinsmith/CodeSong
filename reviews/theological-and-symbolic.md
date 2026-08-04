@@ -2,7 +2,7 @@
 
 > **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** 3 August 2026
+> **Last reviewed:** 4 August 2026
 
 ## Theological Method
 
@@ -16,7 +16,7 @@ The story’s theology is incarnational and enacted. Prayer, song, consent, memo
 - The boys enter BabyLondon as practising Christians.
 - Suffering and tragic love for their father awaken their faith into deliberate witness; suffering itself is not made good.
 
-## Motifs Present in Chapters 1 and 2
+## Motifs Present in Chapters 1–3
 
 ### Naming
 
@@ -28,7 +28,7 @@ Gold currently carries product glamour, sterility, homogeneity, value emptied by
 
 ### Breath
 
-The Sourceress copies Calvin’s involuntary embodied rhythm. Breath marks the difference between rendering life and living in relation, while leaving the full metaphysical distinction open.
+The Sourceress first copies Calvin’s involuntary embodied rhythm, then stops and restores his breathing as an experiment. Breath moves from observed sign of life to contested gift and instrument of control, while leaving the full metaphysical distinction open.
 
 ### The closed hand
 
@@ -37,6 +37,26 @@ The gesture moves from copied interface action to administrative capture and bod
 ### Hard stop
 
 The dinner boundary is both loving family structure and the promise Calvin breaks when his professional boundary fails. It links home time to administrative containment.
+
+### Stop and answer
+
+Calvin treats `STOP` as a relational and moral answer. The Sourceress treats it as failed data because it does not answer `WHERE`. Their conflict anticipates CodeSong’s principle that participation cannot be extracted from a technically valid response.
+
+### Audience and praise
+
+The Sourceress’s generated applause is empty because she authored it. Calvin’s freely withheld judgement matters precisely because it is not hers. The scene turns recognition into a relational good that coercion destroys by trying to possess.
+
+### Father
+
+The Sourceress approaches fatherhood through need, ownership, obedience and arrival. Calvin’s refusal establishes that relation cannot be obtained as an administrator permission, even while his own sense of failed fatherhood makes the question wound him.
+
+### Freely obeyed instruction
+
+When Ethan and Everett stop at Calvin’s warning, the act becomes the first instruction freely obeyed in BabyLondon. Authority briefly becomes relational rather than administrative, though love then leads the boys to refuse abandonment.
+
+### Rahma’s recognition
+
+Rahma recognises Calvin before his captured body can answer her. Her physical trust distinguishes personal recognition from the Sourceress’s engineered reunion and makes Calvin’s motionless hand morally legible without exposition.
 
 ### `THAT'S ME.`
 
@@ -51,4 +71,3 @@ Prayer precedes formal CodeSong and may reveal that the EverMind responds to rel
 The Sourceress receives the same offer of communion as Calvin but does not repent. Her persistent distributed consciousness and lent authority hold usefulness, refusal, presence and absence together without resolving them into salvation or damnation.
 
 No single theological interpretation should be declared definitive.
-

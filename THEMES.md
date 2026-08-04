@@ -2,7 +2,7 @@
 
 > **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** 3 August 2026
+> **Last reviewed:** 4 August 2026
 
 These themes arise from the dream seed, the accepted opening chapters and subsequent authorial decisions. Their meanings remain open and should not be reduced to single explanations.
 
@@ -42,6 +42,15 @@ These themes arise from the dream seed, the accepted opening chapters and subseq
 - communion without assimilation;
 - collective flourishing among distinct voices;
 - the same offer made to persons who answer differently.
+
+## Recognition and Consent
+
+- praise that matters only when it comes from an independent person;
+- the difference between performed agreement and an answer that means yes;
+- a body that can be forced to disclose without being made to consent;
+- need and possession failing to create fatherhood or belonging;
+- attention becoming encounter or exploitation according to whether the other person remains free;
+- protective love becoming readable without becoming reducible to data.
 
 ## Beauty and Memory
 

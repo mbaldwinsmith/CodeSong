@@ -2,7 +2,7 @@
 
 > **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** 3 August 2026
+> **Last reviewed:** 4 August 2026
 
 ## Definitions
 
@@ -17,11 +17,14 @@
 - RealSouls are not entirely contained within the EverMind.
 - Death within the EverMind can cause a RealSoul’s death in the physical world.
 - RealSouls carry involuntary embodied rhythms into simulated experience.
+- A RealSoul’s simulated movement and sensation can be interfered with while intention and interior witness remain resistant.
+- Simulated breath distress, imbalance, temperature and pain can be received by a RealSoul’s biological nervous system as real experience.
 - SimSouls possess computational rather than biological SoulFonts.
 - SimFonts have no necessary corresponding living brain and may operate on varied compatible substrates.
 - SimSouls are capable of consciousness, suffering, relationship, learning, choice and creation.
 - A SoulFont is not established as a simple editable record containing a person’s complete identity.
 - CodeSong cannot recode identity or edit minds.
+- Forced bodily performance and involuntary response do not constitute consent or recoded belief.
 
 ## Personhood Rule
 
@@ -45,7 +48,7 @@ The distinctions among SoulFont, consciousness, agency, embodiment and authority
 
 ## Limits
 
-The mechanics of copying, migration, backup, restoration, distribution and continuity of identity remain unresolved.
+The mechanics of copying, migration, backup, restoration, distribution, continuity of identity and the simulated-to-biological sensory path remain unresolved.
 
 ## Open Questions
 
@@ -66,4 +69,3 @@ The mechanics of copying, migration, backup, restoration, distribution and conti
 ## Speculative Possibilities
 
 > No backup, reincarnation or migration model has been accepted.
-
