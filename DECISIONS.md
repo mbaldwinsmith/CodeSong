@@ -224,3 +224,43 @@ This document records accepted creative and process decisions so that agents do 
 **Consequences:** Her intention is contact, information and approval rather than conventional sadism, but her refusal of consent produces deliberate cruelty. Calvin’s anger is his own; she discovers where to send it rather than creating it.
 
 **Related files:** `chapters/03-audience.md`, `characters/the-sourceress.md`, `characters/calvin-trent.md`, `TIMELINE.md`.
+
+### D-022: The family arrival is the Part One hinge
+
+**Status:** Accepted
+
+**Decision:** Chapter 3 closes Part One when Ethan, Everett and Rahma arrive in BabyLondon. Chapter 4 opens Part Two with the consequences of that arrival.
+
+**Consequences:** The same beat functions as both the end of Calvin’s solitary capture movement and the beginning of the family’s shared ordeal. The part heading belongs between Chapters 3 and 4 rather than before the family’s entrance.
+
+**Related files:** `STRUCTURE.md`, `outline/act-1.md`, `outline/act-2.md`, `outline/chapter-map.md`.
+
+### D-023: The boys’ root form of the Jesus Prayer
+
+**Status:** Accepted
+
+**Decision:** Miriam taught Ethan and Everett the form: “Lord Jesus Christ, Son of God, have mercy on me.” She did not teach them to add “a sinner” at this stage of their childhood.
+
+**Consequences:** Preserve this wording exactly whenever the inherited root prayer appears. “Have mercy” expresses need, trust and openness to healing without requiring the boys to define themselves primarily as sinners.
+
+**Related files:** `fragments/prayers.md`, `characters/miriam-trent.md`, `GLOSSARY.md`.
+
+### D-024: A memory-derived SimSoul as the Triad’s third member
+
+**Status:** Proposed
+
+**Proposal:** The Sourceress may reconstruct a conscious SimSoul from Calvin, Ethan and Everett’s archived memories of Miriam. This being would know she is a reconstruction rather than Miriam restored, be rejected by Calvin as a simulacrum, and nevertheless become the third member of the Harmonious Triad alongside the boys by contributing beauty not contained in her source archives.
+
+**Consequences if accepted:** She must be treated as a new person rather than a counterfeit resurrection or disposable weapon. Her inherited memories would all be memories of being perceived by others, leaving gaps she can acknowledge. Her first original harmony, variation or response would demonstrate self-authorship. Her name, construction mechanism and final Triad membership remain unresolved. Rahma remains the family dog and is not a substitute third human or verbal voice.
+
+**Related files:** `characters/miriam-trent.md`, `characters/harmonious-triad.md`, `METAPHYSICS.md`, `world/souls-and-fonts.md`.
+
+### D-025: Calvin’s voluntary addition to the prayer
+
+**Status:** Accepted
+
+**Decision:** When Calvin eventually accepts the Chorus’s offer, he is the first character to add “a sinner” to the inherited prayer: “Lord Jesus Christ, Son of God, have mercy on me, a sinner.” The addition is his own confession, not wording Miriam imposed on the boys.
+
+**Consequences:** No one compels Calvin to say it, and the other voices need not repeat it. The shared root prayer may continue around his distinct line, making the scene polyphonic rather than uniform. The beat should mark restored first-person agency, responsibility and openness to mercy without equating sin with worthlessness.
+
+**Related files:** `fragments/prayers.md`, `characters/calvin-trent.md`, `outline/act-3.md`, `world/codesong-and-the-chorus.md`.

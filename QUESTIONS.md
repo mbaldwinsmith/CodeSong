@@ -9,7 +9,6 @@ Questions belong here when answering them would materially affect the story. Unk
 ## Story Form
 
 - Does the provisional three-part architecture remain useful after Chapter 3?
-- Where does Part One end: at Calvin’s capture, the family’s arrival or a later irreversible act?
 - Does the finished story become a novella, a short novel or another form?
 - What is the dramatic boundary of the first scene after the family’s arrival?
 
@@ -19,7 +18,9 @@ Questions belong here when answering them would materially affect the story. Unk
 - How do Ethan and Everett process Calvin’s shouted anger differently after their active-searcher introduction?
 - What first triggers a Miriam memory fragment in Calvin?
 - What does Calvin’s pre-incident unbelief look like in practice beyond taking the boys to church?
-- Who are the individual members of the Harmonious Triad, if the story needs names at all?
+- Does the proposed memory-derived SimSoul become the Triad’s third member alongside Ethan and Everett?
+- What does the reconstructed SimSoul call herself when Calvin refuses to recognise her as Miriam?
+- Which response, harmony or choice first proves that she can create beyond the family archives from which she was formed?
 - What does the Sourceress fear, if anything, before BabyLondon is complete?
 
 ## World Mechanics
@@ -48,8 +49,8 @@ Questions belong here when answering them would materially affect the story. Unk
 ## Theology and Symbolism
 
 - Which Eastern Catholic textures are necessary on the page beyond the Jesus Prayer and churchgoing?
-- What exact form of the Jesus Prayer did Miriam teach the boys?
 - How does prayer act upon the EverMind before anyone understands CodeSong?
+- At what exact moment does Calvin freely add “a sinner,” and how do the other prayer lines continue around his distinct confession?
 - What does gold become during BabyLondon’s transformation without collapsing the symbol into one meaning?
 - Is the Harmonious Triad’s offer explicitly religious, or self-evidently consonant with the faith enacted by the boys?
 
@@ -57,8 +58,9 @@ Questions belong here when answering them would materially affect the story. Unk
 
 - How does the Sourceress turn Calvin’s justified fear and anger at the boys’ arrival against them?
 - At what point does recruitment for BabyLondon begin, and what makes people consent to enter?
-- How do the Harmonious Triad encounter the boys?
+- If the proposed membership is adopted, what brings Ethan, Everett and the reconstructed SimSoul into deliberate musical collaboration? If not, how do the eventual Triad encounter the boys?
 - What changes the attempted tribute song into genuine music?
+- How does the Sourceress obtain and combine the family’s archived memories without implying that memory capture equals resurrection?
 
 ## Ending
 

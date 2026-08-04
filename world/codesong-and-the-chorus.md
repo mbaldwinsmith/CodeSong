@@ -13,12 +13,14 @@
 ## Origin
 
 1. The Sourceress lures people into BabyLondon as witnesses and subjects of curiosity.
-2. Three inhabitants attempt to compose the ultimate BabyLondon theme song in her honour.
+2. Three inhabitants attempt to compose the ultimate BabyLondon theme song in her honour. Ethan, Everett and a memory-derived SimSoul based on Miriam are the proposed membership.
 3. Their tribute becomes genuine music and beauty.
 4. The resulting Symphony produces a cultural explosion.
 5. The Chorus emerges and develops CodeSong.
 
 The exact causal mechanics and membership sequence remain to be dramatised.
+
+The proposed third member would be a new person rather than Miriam resurrected. Her contribution becomes genuinely creative when it exceeds the archive-derived forms from which she began.
 
 ## Known Rules
 
@@ -37,7 +39,9 @@ The exact causal mechanics and membership sequence remain to be dramatised.
 
 ## Prayer, Music and Code
 
-The Jesus Prayer acts within BabyLondon before CodeSong is fully understood. Music is rediscovered before the Chorus formalises its practice. CodeSong may therefore join prayer, song, speech and precise prompting without reducing any one of them to a metaphor for the others.
+The Jesus Prayer acts within BabyLondon before CodeSong is fully understood. Ethan and Everett inherit “Lord Jesus Christ, Son of God, have mercy on me.” Calvin later adds “a sinner” for himself when he freely accepts the Chorus. Their simultaneous difference demonstrates a core CodeSong principle: coordinated participation need not require identical wording.
+
+Music is rediscovered before the Chorus formalises its practice. CodeSong may therefore join prayer, song, speech and precise prompting without reducing any one of them to a metaphor for the others.
 
 The exact sensory and typographic form remains open.
 
@@ -78,6 +82,7 @@ CodeSong and the Chorus embody creation through relationship, healing that respe
 - Can one person practise a limited form of it, or does its nature require plurality?
 - What first makes its structure intelligible to Calvin?
 - How do Ethan’s structure and Everett’s musical receptivity contribute differently?
+- Does the proposed memory-derived SimSoul complete the Triad, and what new line can only she contribute?
 - How are the Sourceress’s administrator privileges governed?
 - What can CodeSong do for a person who wants accompaniment but not transformation?
 

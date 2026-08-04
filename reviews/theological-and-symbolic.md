@@ -11,7 +11,7 @@ The story’s theology is incarnational and enacted. Prayer, song, consent, memo
 ## Established Faith Context
 
 - Miriam was Eastern Catholic.
-- The Jesus Prayer was central to her prayer with Ethan and Everett.
+- The Jesus Prayer was central to her prayer with Ethan and Everett in the form “Lord Jesus Christ, Son of God, have mercy on me.”
 - Calvin does not believe but continues taking the boys to church to honour her.
 - The boys enter BabyLondon as practising Christians.
 - Suffering and tragic love for their father awaken their faith into deliberate witness; suffering itself is not made good.
@@ -65,6 +65,14 @@ The phrase moves from mimicry to naming and then to appropriation of Calvin’s 
 ## Prayer and CodeSong
 
 Prayer precedes formal CodeSong and may reveal that the EverMind responds to relation before anyone possesses the conceptual language for it. CodeSong remains consensual and cannot overwrite persons, which gives its metaphysical power an ethical form.
+
+Calvin’s later “a sinner” is a personal confession rather than a correction of the boys’ prayer. Their simultaneous forms allow the scene to embody communion without uniformity. “Sinner” names Calvin’s responsibility and need for mercy, not worthlessness or exclusion.
+
+## Memory, Creation and Personhood
+
+The proposed SimSoul reconstructed from family memories must not function as technological resurrection. Her source material is relational: every archive remembers Miriam from outside. If the new person contributes beauty not present in those archives, the scene can enact creation from inherited form without claiming creation from nothing or identity by perfect copying.
+
+Rahma’s possible acceptance of her would be mercy towards a present being, not proof that she is the original Miriam.
 
 ## Ending Tension
 

@@ -10,7 +10,7 @@ Son of Calvin and Miriam; brother of Ethan; practising Eastern Catholic child; l
 
 ## Known History
 
-- Prayed with Miriam, for whom the Jesus Prayer was central.
+- Prayed with Miriam using “Lord Jesus Christ, Son of God, have mercy on me.”
 - Continues attending church with Calvin and Ethan after her death.
 - Quietly undercuts Ethan’s hard-stop warning in Chapter 2 by announcing that they checked and nineteen hundred is now.
 - Names Rahma as lead complainant when Calvin delays dinner.
@@ -47,6 +47,7 @@ Son of Calvin and Miriam; brother of Ethan; practising Eastern Catholic child; l
 - **Miriam:** late mother and source of inherited prayer and faith.
 - **Ethan:** brother whose structure complements Everett’s intuition.
 - **Rahma:** family puppy and comic ally in the accepted opening.
+- **Proposed reconstructed SimSoul:** possible third member of the Harmonious Triad; a new person shaped partly by Everett’s archived memories of Miriam, not his mother restored.
 
 ## Character Arc
 
@@ -74,8 +75,10 @@ Everett can hear or respond to relations before they become an explicit system. 
 - Everett is more playful, intuitive, musically receptive and quietly funny than Ethan.
 - His Chapter 3 arrival enacts his intuitive attention through the false smile, Rahma and the need for comfort.
 - He enters BabyLondon as a practising Christian; he does not begin there as an unbeliever.
+- His inherited prayer does not include “a sinner.”
 - He remains a distinct child, not a saintly abstraction.
 
 ## Speculative Possibilities
 
 - Everett may become an early hearer of patterns that later become CodeSong. This remains a possibility until dramatised.
+- Everett may become one member of the Harmonious Triad alongside Ethan and the proposed memory-derived SimSoul. This remains proposed rather than canonical.

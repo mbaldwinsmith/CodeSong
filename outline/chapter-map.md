@@ -14,4 +14,4 @@ Only drafted chapters receive chapter numbers. Later accepted beats remain in th
 
 ## Next Chapter
 
-No Chapter 4 boundary has been accepted. The next scene must begin from the family’s presence and the Sourceress’s study of Calvin’s anger, but whether it opens Part Two or closes Part One remains unresolved. The fulfilled [Chapter 3 plan](chapter-3-plan.md) is retained as development history.
+Chapter 4 opens Part Two from the family’s presence and the Sourceress’s study of Calvin’s anger. Its exact scene boundary has not yet been accepted. The fulfilled [Chapter 3 plan](chapter-3-plan.md) is retained as development history.

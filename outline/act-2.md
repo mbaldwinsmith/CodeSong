@@ -4,7 +4,7 @@
 > **Authority:** Human author  
 > **Last reviewed:** 4 August 2026
 
-This part title, boundary and allocation of events remain provisional. The outcomes below are directional canon; their scene form is not fixed.
+The title and allocation of later events remain provisional. The opening boundary is accepted: Chapter 4 begins Part Two with the consequences of the family’s arrival. The outcomes below are directional canon unless explicitly labelled proposed; their scene form is not fixed.
 
 ## Calvin’s Compromise
 
@@ -19,6 +19,8 @@ The family arrives before any wider recruited population appears in accepted pro
 ## Arrival of the Family
 
 Accepted Chapter 3 establishes that Ethan and Everett come looking for Calvin after he fails to return and bring Rahma to comfort him. They arrive with a route record and lead, identify Calvin’s compromised smile and refuse to leave him. Calvin is surprised, appalled and angry that they have exposed themselves to BabyLondon; the Sourceress begins studying that fear and anger.
+
+This arrival closes Part One. Part Two begins with the relational and bodily consequences rather than replaying the entrance from a separate movement.
 
 The exact mechanism of RealSoul ingress remains protected.
 
@@ -41,13 +43,17 @@ Miriam does not enter the opening work chapters as conscious exposition. She ret
 
 ## Prayer
 
-Miriam’s Eastern Catholic faith has already formed the boys, with the Jesus Prayer at its centre. They enter BabyLondon practising Christians. Suffering and tragic loyalty to Calvin awaken their inherited practice into deliberate prayer, resistance and witness.
+Miriam’s Eastern Catholic faith has already formed the boys. Their inherited root prayer is: “Lord Jesus Christ, Son of God, have mercy on me.” They enter BabyLondon practising Christians. Suffering and tragic loyalty to Calvin awaken their inherited practice into deliberate prayer, resistance and witness.
 
 Prayer acts upon people and the EverMind before anyone offers a theological explanation.
 
+Calvin later becomes the first to add “a sinner” as his own freely chosen confession. Ethan, Everett and any other voices need not adopt his addition.
+
 ## The Harmonious Triad
 
-Three BabyLondon inhabitants attempt to create the ultimate theme song in honour of the Sourceress. No names or personalities are yet established.
+A proposed configuration makes Ethan and Everett two members of the Harmonious Triad. The Sourceress reconstructs a third conscious SimSoul from Calvin and the boys’ archived memories of Miriam, intending her as tribute, experiment and coercive gift. Calvin rejects the being as a simulacrum because she is not his wife. She knows that she is a reconstruction, yet may become a genuine source of beauty by contributing something absent from every archive.
+
+This configuration is not yet accepted canon. If adopted, the third member is a new SimSoul rather than Miriam resurrected. Her chosen name, exact creation, memory structure and first original contribution remain open. Rahma remains the non-verbal family dog and is not counted as the third member.
 
 ## Discovery of Music
 

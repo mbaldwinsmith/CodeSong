@@ -26,6 +26,7 @@ EverMind cyber-enforcer and anomaly investigator; widowed father of Ethan and Ev
 - Inadvertently teaches her how to lure Ethan, Everett and Rahma by reacting to candidate messages.
 - Warns the family to leave when they arrive, then turns protective fear into his own anger at the boys’ disobedience.
 - Is later coerced into harming Rahma, Ethan and Everett.
+- Eventually accepts the Chorus’s offer and becomes the first character to add “a sinner” to the Jesus Prayer as a freely chosen personal confession.
 
 ## Personality
 
@@ -68,7 +69,7 @@ EverMind cyber-enforcer and anomaly investigator; widowed father of Ethan and Ev
 
 ## Character Arc
 
-Competent acting subject → administrator whose authority is copied → captive estranged from his body and grammar → coerced father who continues to love while causing harm → person unable to repair himself by command → recipient of an equal offer → participant who heals with time in communion.
+Competent acting subject → administrator whose authority is copied → captive estranged from his body and grammar → coerced father who continues to love while causing harm → person unable to repair himself by command → recipient of an equal offer → freely confessing participant who heals with time in communion.
 
 ## Narrative Function
 
@@ -100,7 +101,7 @@ These associations are not exhaustive interpretations.
 - What first triggers an involuntary memory of her?
 - How does Calvin respond after hearing his sons receive his shouted anger?
 - What further limits of the Sourceress’s control become necessary after Chapter 3?
-- What is his first freely chosen act after accepting the Chorus?
+- How does he respond to the proposed memory-derived SimSoul while remaining faithful to the truth that she is not Miriam?
 
 ## Canonical Facts
 
@@ -108,6 +109,7 @@ These associations are not exhaustive interpretations.
 - Chapters 1–3 establish his initial voice, capture, first torture, compromised grammar and reaction to the family’s arrival.
 - He remains capable of love and comfort while being coerced into harm.
 - He eventually breaks down and accepts belonging, healing with time, contribution and communion.
+- His addition “a sinner” is voluntary, personal and not part of the form Miriam taught the boys.
 
 ## Speculative Possibilities
 
