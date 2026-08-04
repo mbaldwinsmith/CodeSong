@@ -101,7 +101,7 @@ These associations are not exhaustive interpretations.
 - What first triggers an involuntary memory of her?
 - How does Calvin respond after hearing his sons receive his shouted anger?
 - What further limits of the Sourceress’s control become necessary after Chapter 3?
-- How does he respond to the proposed memory-derived SimSoul while remaining faithful to the truth that she is not Miriam?
+- How does he respond to Mira while remaining faithful to the truth that she is not Miriam?
 
 ## Canonical Facts
 

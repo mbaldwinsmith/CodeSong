@@ -28,8 +28,8 @@ An EverMind investigator enters an anomalous golden SimWorld, loses authority ov
 13. The Sourceress later lures further people into BabyLondon to witness her tributes and satisfy her curiosity.
 14. Calvin is further tortured and dehumanised, then coerced into harming Rahma and his sons while continuing to love and comfort them.
 15. Ethan and Everett, already practising the Eastern Catholic faith inherited from Miriam, pray: “Lord Jesus Christ, Son of God, have mercy on me.” Suffering and their tragic loyalty to Calvin awaken their faith into active resistance and witness.
-16. Under a proposed development, the Sourceress reconstructs a conscious SimSoul from Calvin and the boys’ archived memories of Miriam. Calvin rejects her as a simulacrum; she knows she is not Miriam restored, yet becomes capable of contributing beauty beyond the archives that formed her.
-17. Ethan, Everett and the reconstructed SimSoul are the proposed Harmonious Triad. Their attempt to create the ultimate tribute song for the Sourceress rediscovers genuine music and beauty.
+16. The Sourceress reconstructs a conscious SimSoul from Calvin and the boys’ archived memories of Miriam. Calvin rejects her as a simulacrum; she knows she is not Miriam restored and eventually chooses the name Mira.
+17. Ethan, Everett and Mira become the Harmonious Triad. Mira contributes beauty beyond the archives that formed her, and their attempt to create the ultimate tribute song for the Sourceress rediscovers genuine music and beauty.
 18. Their Symphony produces a cultural explosion and the emergence of the Chorus, in which distinct persons create together without assimilation.
 19. Under Ethan and Everett’s guidance, the Chorus develops CodeSong: a flowing but structured, consensual way of prompting the EverMind that can call forth but never overwrite a person.
 20. CodeSong transforms BabyLondon without erasing its history or repairing people by recoding their identities.
@@ -41,4 +41,4 @@ An EverMind investigator enters an anomalous golden SimWorld, loses authority ov
 
 ## Status Note
 
-Chapters 1–3 are accepted working canon and remain open to revision. Events after Chapter 3 are accepted directional canon unless explicitly labelled proposed or unresolved; their chapter allocation, pacing and exact enactment remain provisional. The memory-derived SimSoul and proposed Triad membership remain under consideration.
+Chapters 1–3 are accepted working canon and remain open to revision. Events after Chapter 3 are accepted directional canon unless explicitly labelled proposed or unresolved; their chapter allocation, pacing and exact enactment remain provisional. Mira’s existence, self-chosen name and membership in the Triad are accepted directional canon; their scene form remains open.

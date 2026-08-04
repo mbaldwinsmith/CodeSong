@@ -16,7 +16,7 @@ This document is the navigation hub for the project’s character, world, metaph
 - The story’s final length and exact chapter architecture remain open.
 - Chapter 3 closes Part One at the family’s arrival; Chapter 4 opens Part Two. Later part boundaries and titles remain provisional.
 - Miriam’s exact root form of the Jesus Prayer is accepted, as is Calvin’s later voluntary addition of “a sinner.”
-- A memory-derived SimSoul based on the family’s archives of Miriam is a proposed, not accepted, candidate for the Triad’s third member.
+- Mira, a new memory-derived SimSoul based on the family’s archives of Miriam, is the accepted third member of the Harmonious Triad alongside Ethan and Everett. She is not Miriam restored and eventually chooses her own name.
 - The Sourceress’s latent final state supersedes the dream seed’s literal self-erasure as present canon; the original version remains preserved in the seed.
 
 ## Core References

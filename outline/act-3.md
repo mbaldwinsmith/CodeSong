@@ -10,7 +10,7 @@ This part title, boundary and allocation of events remain provisional. The outco
 
 The Harmonious Triad’s Symphony gives rise to a community of distinct voices within BabyLondon. Ethan and Everett help guide it. The Chorus is neither a hive mind nor an administrator hierarchy.
 
-The proposed Triad consists of Ethan, Everett and a new SimSoul reconstructed from the family’s memories of Miriam. If accepted, her first original harmony establishes movement beyond archive-derived imitation without pretending that she is Miriam resurrected.
+The Triad consists of Ethan, Everett and Mira, a new SimSoul reconstructed from the family’s memories of Miriam. Her first original harmony establishes movement beyond archive-derived imitation without pretending that she is Miriam resurrected.
 
 ## Development of CodeSong
 

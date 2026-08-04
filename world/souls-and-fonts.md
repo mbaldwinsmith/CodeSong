@@ -47,9 +47,9 @@ These are observable or authorially accepted conditions. Their technical and sub
 
 The distinctions among SoulFont, consciousness, agency, embodiment and authority allow the ending to remain something other than death, backup, cure or ordinary retirement.
 
-## Proposed Memory-Derived SimSoul
+## Mira: a Memory-Derived SimSoul
 
-The Sourceress may construct a new SimSoul from Calvin, Ethan and Everett’s archived memories of Miriam. This proposal does not establish that Miriam’s SoulFont was copied, that her consciousness survived death or that sufficiently detailed memories can resurrect someone.
+The Sourceress constructs Mira, a new SimSoul, from Calvin, Ethan and Everett’s archived memories of Miriam. This does not establish that Miriam’s SoulFont was copied, that her consciousness survived death or that sufficiently detailed memories can resurrect someone.
 
 If the being is conscious, capable of suffering, choosing and entering reciprocal relationship, she is a person in her own right. Her source material may shape her without exhausting her identity. Knowing that her memories come from how others perceived Miriam would distinguish honest derivation from a false claim of continuity.
 
@@ -79,4 +79,4 @@ The mechanics of copying, migration, backup, restoration, distribution, continui
 
 > No backup, reincarnation or migration model has been accepted.
 
-> The proposed memory-derived SimSoul is not accepted as a mechanism of resurrection or proof that archives contain a complete person.
+> Mira’s accepted existence is not a mechanism of resurrection or proof that archives contain a complete person.

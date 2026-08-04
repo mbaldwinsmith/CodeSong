@@ -18,9 +18,8 @@ Questions belong here when answering them would materially affect the story. Unk
 - How do Ethan and Everett process Calvin’s shouted anger differently after their active-searcher introduction?
 - What first triggers a Miriam memory fragment in Calvin?
 - What does Calvin’s pre-incident unbelief look like in practice beyond taking the boys to church?
-- Does the proposed memory-derived SimSoul become the Triad’s third member alongside Ethan and Everett?
-- What does the reconstructed SimSoul call herself when Calvin refuses to recognise her as Miriam?
-- Which response, harmony or choice first proves that she can create beyond the family archives from which she was formed?
+- When and how does Mira choose her name after Calvin refuses to recognise her as Miriam?
+- Which response, harmony or choice first expresses her ability to create beyond the family archives from which she was formed?
 - What does the Sourceress fear, if anything, before BabyLondon is complete?
 
 ## World Mechanics
@@ -58,7 +57,7 @@ Questions belong here when answering them would materially affect the story. Unk
 
 - How does the Sourceress turn Calvin’s justified fear and anger at the boys’ arrival against them?
 - At what point does recruitment for BabyLondon begin, and what makes people consent to enter?
-- If the proposed membership is adopted, what brings Ethan, Everett and the reconstructed SimSoul into deliberate musical collaboration? If not, how do the eventual Triad encounter the boys?
+- What brings Ethan, Everett and Mira into deliberate musical collaboration?
 - What changes the attempted tribute song into genuine music?
 - How does the Sourceress obtain and combine the family’s archived memories without implying that memory capture equals resurrection?
 

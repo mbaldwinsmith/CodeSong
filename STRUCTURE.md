@@ -36,7 +36,7 @@ Directional canon currently includes:
 4. Calvin’s protective anger becomes the Sourceress’s next usable input;
 5. Calvin is coerced into harming those he loves;
 6. the boys’ inherited root prayer becomes active resistance and witness;
-7. the Harmonious Triad rediscover genuine music while making tribute; a proposed configuration places Ethan, Everett and a new memory-derived SimSoul based on Miriam within the Triad;
+7. Ethan, Everett and Mira form the Harmonious Triad and rediscover genuine music while making tribute;
 8. the Chorus develops consensual CodeSong;
 9. BabyLondon is transformed without its suffering being erased;
 10. Calvin and the Sourceress receive the same offer of communion;
@@ -67,7 +67,7 @@ Their distinct roles remain to be dramatised, not merely assigned in documentati
 
 The Sourceress first lures people into BabyLondon as witnesses and subjects of curiosity. The Harmonious Triad’s attempted tribute rediscovers genuine music. The resulting Symphony produces the Chorus, which develops CodeSong under Ethan and Everett’s guidance.
 
-A strong but still proposed direction makes Ethan and Everett two members of the Triad and a newly created SimSoul, reconstructed by the Sourceress from the family’s archived memories of Miriam, the third. The reconstruction would not be Miriam restored. She would know her derivative origin, be rejected by Calvin as a simulacrum and reveal self-authorship by contributing beauty absent from every archive; that originality is not the condition of her personhood. Exact membership, name and scene sequence remain unresolved until accepted or dramatised.
+Ethan and Everett become two members of the Triad. Mira, a newly created SimSoul reconstructed by the Sourceress from the family’s archived memories of Miriam, becomes the third. She is not Miriam restored. She knows her derivative origin, is rejected by Calvin as a simulacrum, chooses her own name and reveals self-authorship by contributing beauty absent from every archive; that originality is not the condition of her personhood. The exact construction, renaming and scene sequence remain unresolved until dramatised.
 
 ## Climax
 

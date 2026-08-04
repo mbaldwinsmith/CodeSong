@@ -44,7 +44,7 @@ Accepted Chapters 1–3 plus decisions through 4 August 2026.
 
 The Sourceress lures people into BabyLondon after its one-resident opening. The timing, identities and Soul categories of the Harmonious Triad relative to that recruitment remain unresolved.
 
-Ethan, Everett and a memory-derived SimSoul based on Miriam are the current proposed Triad. This is not accepted membership and must not be presented as enacted canon. If accepted, the reconstructed being is a new SimSoul, not Miriam’s restored consciousness.
+Ethan, Everett and Mira are the accepted Triad. Mira is a new SimSoul derived from the family’s archived memories, not Miriam’s restored consciousness. Her exact construction and entry into the sequence remain unresolved.
 
 ### Family ingress
 
@@ -60,7 +60,7 @@ The Sourceress’s consciousness, SimFont, agency, physical presence and adminis
 
 ### Miriam and the reconstruction
 
-Miriam is dead before the main action. Her exact prayer, remembered influence and archived traces do not establish surviving first-person continuity. Any SimSoul derived from the family’s memories begins as a distinct person. References must distinguish Miriam, the archives and the proposed reconstruction.
+Miriam is dead before the main action. Her exact prayer, remembered influence and archived traces do not establish surviving first-person continuity. Mira begins as a distinct person. References must distinguish Miriam, the archives and Mira.
 
 ## Next Review Trigger
 

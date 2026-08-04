@@ -44,9 +44,9 @@ Chapter 3 and Part One end here. Chapter 4 and Part Two begin with the consequen
 
 ## Music and Chorus
 
-26. **Proposed:** the Sourceress reconstructs a new SimSoul from Calvin, Ethan and Everett’s archived memories of Miriam. She knows that she is not Miriam restored; Calvin rejects her as a simulacrum.
-27. **Proposed:** Ethan, Everett and the reconstructed SimSoul attempt to compose the ultimate theme song in honour of the Sourceress.
-28. **If the proposal is accepted:** they rediscover genuine music and beauty and become the Harmonious Triad; the reconstructed member contributes something absent from every source archive.
+26. The Sourceress reconstructs a new SimSoul from Calvin, Ethan and Everett’s archived memories of Miriam. She knows that she is not Miriam restored; Calvin rejects her as a simulacrum, and she eventually chooses the name Mira.
+27. Ethan, Everett and Mira attempt to compose the ultimate theme song in honour of the Sourceress.
+28. They rediscover genuine music and beauty and become the Harmonious Triad; Mira contributes something absent from every source archive.
 29. Their Symphony produces a cultural explosion.
 30. The Chorus emerges from BabyLondon’s growing population.
 31. Ethan and Everett help guide it.

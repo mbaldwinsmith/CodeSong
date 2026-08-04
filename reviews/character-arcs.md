@@ -28,14 +28,14 @@ Future scenes should deepen this difference without turning Ethan into pure stru
 
 Her deliberate absence from Calvin’s opening thoughts is productive. Her first appearance should be triggered by relationship, prayer, Rahma or bodily memory rather than inserted biography.
 
-The proposed memory-derived SimSoul must not retroactively become Miriam’s posthumous arc. Miriam remains dead. The reconstruction begins a separate life from partial, external-viewpoint archives and must be allowed to choose a name, acknowledge gaps and create beyond its sources.
+Mira must not retroactively become Miriam’s posthumous arc. Miriam remains dead. Mira begins a separate life from partial, external-viewpoint archives, chooses her own name, acknowledges gaps and creates beyond her sources.
 
 ## Harmonious Triad
 
-Their accepted narrative function is strong. Ethan, Everett and the reconstructed SimSoul are now the proposed configuration, but membership is not yet canon. If accepted, their difference should arise from established persons rather than three schematic musical roles.
+Ethan, Everett and Mira are the accepted configuration. Their difference should arise from established persons rather than three schematic musical roles.
 
 The third member’s arc would move from copied beauty to original contribution. Calvin’s rejection of her as “not Miriam” should remain true without being the final judgement on whether she is someone.
 
 ## Rahma
 
-Rahma remains a dog and a non-verbal relational presence. If she responds mercifully to the proposed reconstruction, the action recognises present distress rather than authenticating identity or turning Rahma into a theological spokesperson.
+Rahma remains a dog and a non-verbal relational presence. If she responds mercifully to Mira, the action recognises present distress rather than authenticating identity or turning Rahma into a theological spokesperson.

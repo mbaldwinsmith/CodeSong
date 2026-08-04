@@ -13,14 +13,14 @@
 ## Origin
 
 1. The Sourceress lures people into BabyLondon as witnesses and subjects of curiosity.
-2. Three inhabitants attempt to compose the ultimate BabyLondon theme song in her honour. Ethan, Everett and a memory-derived SimSoul based on Miriam are the proposed membership.
+2. Ethan, Everett and Mira attempt to compose the ultimate BabyLondon theme song in her honour.
 3. Their tribute becomes genuine music and beauty.
 4. The resulting Symphony produces a cultural explosion.
 5. The Chorus emerges and develops CodeSong.
 
 The exact causal mechanics and membership sequence remain to be dramatised.
 
-The proposed third member would be a new person rather than Miriam resurrected. Her contribution becomes genuinely creative when it exceeds the archive-derived forms from which she began.
+Mira is a new person rather than Miriam resurrected. Her contribution becomes genuinely creative when it exceeds the archive-derived forms from which she began.
 
 ## Known Rules
 
@@ -82,7 +82,7 @@ CodeSong and the Chorus embody creation through relationship, healing that respe
 - Can one person practise a limited form of it, or does its nature require plurality?
 - What first makes its structure intelligible to Calvin?
 - How do Ethan’s structure and Everett’s musical receptivity contribute differently?
-- Does the proposed memory-derived SimSoul complete the Triad, and what new line can only she contribute?
+- What new line can only Mira contribute?
 - How are the Sourceress’s administrator privileges governed?
 - What can CodeSong do for a person who wants accompaniment but not transformation?
 
