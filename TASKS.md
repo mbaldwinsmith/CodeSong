@@ -2,7 +2,7 @@
 
 > **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** 4 August 2026
+> **Last reviewed:** 26 September 2026
 
 ## Task Labels
 
@@ -65,13 +65,20 @@
 - [x] `[SYMBOL]` Fix the boys’ inherited Jesus Prayer as “Lord Jesus Christ, Son of God, have mercy on me.”
 - [x] `[CHARACTER]` Establish Calvin as the first character to add “a sinner,” freely and only for himself, when he accepts the Chorus.
 
+## Chapter 4: The People Who Came
+
+- [x] `[PROSE]` Draft Chapter 4 from the family's reunion to the Sourceress's discovery of possible leverage over the boys.
+- [x] `[HUMAN]` Accept Chapter 4 as working canon open to revision.
+- [x] `[STYLE]` Record inference and implied emotional pain, with human complexity, as the preferred mode.
+- [x] `[ETHICS]` Establish emotionally harmful compelled speech without physical harm to the boys or Rahma in this chapter.
+
 ## Foundation Still Open
 
 - [ ] `[HUMAN]` Review and correct `DREAM-SEED.md` only if the historical source itself needs annotation; do not rewrite it to match later canon.
 - [ ] `[HUMAN]` Confirm whether **CodeSong** remains the final title.
 - [ ] `[HUMAN]` Review the provisional three-part architecture beyond the accepted Part One/Part Two hinge.
 - [ ] `[STRUCTURE]` Decide the form and approximate length after several more chapters reveal the story’s natural scale.
-- [ ] `[CHARACTER]` Establish Ethan and Everett’s ages and birth order.
+- [x] `[CHARACTER]` Establish Everett as seventeen, two years older than fifteen-year-old Ethan.
 - [ ] `[CHARACTER]` Develop Calvin’s ordinary life beyond the home glimpses in Chapters 1 and 2.
 - [ ] `[CHARACTER]` Determine the first Miriam memory fragment and its trigger.
 - [ ] `[WORLD]` Define the relationship between physical time and EverMind time if the plot requires it.
@@ -87,7 +94,7 @@
 
 ## Immediate Priority
 
-1. Define Chapter 4’s scene boundary and dramatic question from the accepted Part Two opening.
-2. Define Mira’s role in Chapter 4 and the path towards her reconstruction without prematurely explaining its mechanics.
-3. Review the trauma-and-ethics requirements before drafting any scene in which Rahma or the boys are harmed.
-4. Draft the next chapter only after explicit human-author approval.
+1. Review the consequences of Chapter 4 for Ethan, Everett, Rahma and Calvin before planning the next scene.
+2. Keep the Sourceress's possible authority over the new presences unresolved until the story earns a test.
+3. Review the trauma-and-ethics requirements before any further harm to Rahma or the boys.
+4. Develop Mira's later path without bringing her reconstruction into the opening reunion prematurely.

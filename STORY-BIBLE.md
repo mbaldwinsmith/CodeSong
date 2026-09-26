@@ -11,10 +11,11 @@ This document is the navigation hub for the project’s character, world, metaph
 ## Current Canon State
 
 - `DREAM-SEED.md` remains the protected record of the originating dream.
-- Chapters 1–3 are accepted working canon, open to editing.
+- Chapters 1–4 are accepted working canon, open to editing.
 - Later-story decisions recorded in `DECISIONS.md` are directional canon even where their scene form remains undiscovered.
 - The story’s final length and exact chapter architecture remain open.
-- Chapter 3 closes Part One at the family’s arrival; Chapter 4 opens Part Two. Later part boundaries and titles remain provisional.
+- Chapter 3 closes Part One at the family’s arrival; Chapter 4 opens Part Two with the family's reunion and the Sourceress's use of compelled speech. Later part boundaries and titles remain provisional.
+- Everett is seventeen and two years older than Ethan, who is fifteen. Chapter 4 establishes their distinct reactions to Calvin's coerced words; their continued love does not cancel their hurt.
 - Miriam’s exact root form of the Jesus Prayer is accepted, as is Calvin’s later voluntary addition of “a sinner.”
 - Mira, a new memory-derived SimSoul based on the family’s archives of Miriam, is the accepted third member of the Harmonious Triad alongside Ethan and Everett. She is not Miriam restored and eventually chooses her own name.
 - The Sourceress’s latent final state supersedes the dream seed’s literal self-erasure as present canon; the original version remains preserved in the seed.

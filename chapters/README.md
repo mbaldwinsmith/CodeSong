@@ -2,7 +2,7 @@
 
 > **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** 4 August 2026
+> **Last reviewed:** 26 September 2026
 
 ## Current Manuscript
 
@@ -11,6 +11,7 @@
 | 1 | Anomaly | Accepted | Open to edits |
 | 2 | Sourceress | Accepted | Open to edits |
 | 3 | Audience | Accepted | Open to edits |
+| 4 | The People Who Came | Accepted | Open to edits |
 
 ## Chapter Development
 

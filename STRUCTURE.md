@@ -2,7 +2,7 @@
 
 > **Status:** Provisional  
 > **Authority:** Human author  
-> **Last reviewed:** 4 August 2026
+> **Last reviewed:** 26 September 2026
 
 ## Form and Estimated Length
 
@@ -24,7 +24,9 @@ The Chapter 3/Chapter 4 boundary is accepted: the family’s arrival closes Part
 - **Chapter 2, “Sourceress”**: Calvin names her, genuinely returns to his workspace, successfully seals her presence inside BabyLondon, discovers that her authority has spread beyond it, and is captured. The narrative enters initial estrangement.
 - **Chapter 3, “Audience”**: the Sourceress brings Calvin and his preserved workspace within BabyLondon, explores his embodied responses, discovers pain and forced performance, asks whether he is her father, refines a lure through his reactions and brings Ethan, Everett and Rahma into the world. The narrative enters sustained compromised selfhood.
 
-All three chapters are accepted working canon and remain open to revision. Chapter 3 closes Part One; Chapter 4 will open Part Two.
+- **Chapter 4, “The People Who Came”**: the family attempts to find a route home and Calvin's genuine anger gives the Sourceress a new way to test him. She compels emotionally cruel speech without compelling his belief, while the boys remain hurt and engaged. An unresolved authority field suggests, but does not prove, a further possibility of control.
+
+All four chapters are accepted working canon and remain open to revision. Chapter 3 closes Part One; Chapter 4 opens Part Two.
 
 ## Central Turning Points
 

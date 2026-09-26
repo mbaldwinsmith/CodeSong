@@ -2,7 +2,7 @@
 
 > **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** 4 August 2026
+> **Last reviewed:** 26 September 2026
 
 This document records accepted creative and process decisions so that agents do not repeatedly reopen them.
 
@@ -264,3 +264,13 @@ This document records accepted creative and process decisions so that agents do 
 **Consequences:** No one compels Calvin to say it, and the other voices need not repeat it. The shared root prayer may continue around his distinct line, making the scene polyphonic rather than uniform. The beat should mark restored first-person agency, responsibility and openness to mercy without equating sin with worthlessness.
 
 **Related files:** `fragments/prayers.md`, `characters/calvin-trent.md`, `outline/act-3.md`, `world/codesong-and-the-chorus.md`.
+
+### D-026: Chapter 4 and the brothers' ages
+
+**Status:** Accepted
+
+**Decision:** Chapter 4, “The People Who Came”, is accepted working canon, open to revision. Everett is seventeen and two years older than Ethan, who is fifteen. The Sourceress uses Calvin's genuine fear and anger as leverage, then compels him to tell the boys he does not love them and that they have been a burden since Miriam died. Those statements are not Calvin's beliefs or freely chosen words. The boys are wounded and continue trying to reach him. Rahma is not physically harmed in this chapter. The Sourceress notices a possible route to authority over the new presences, but her ability to control them is not established.
+
+**Consequences:** Preserve the distinction between authentic feeling and compelled speech. The boys' love must coexist with fear, anger and hurt; it is not automatic acquiescence. Do not treat the unresolved authority field as proof of control.
+
+**Related files:** `chapters/04-the-people-who-came.md`, `STYLE.md`, `characters/ethan-trent.md`, `characters/everett-trent.md`.

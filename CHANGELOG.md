@@ -6,6 +6,9 @@ All notable structural and canonical changes to the CodeSong project should be r
 
 ### Added
 
+- Chapter 4, “The People Who Came”, as accepted working canon, with Everett seventeen and Ethan fifteen.
+- Style guidance favouring inference, implied emotional pain and complex human responses over plain exposition or conflict alone.
+
 - Chapter 1, “Anomaly”, and Chapter 2, “Sourceress”, as accepted working canon open to revision.
 - Chapter 3, “Audience”, as accepted working canon open to revision.
 - The first involuntary third-person intrusion at the close of Chapter 2.
@@ -21,6 +24,8 @@ All notable structural and canonical changes to the CodeSong project should be r
 - A structured documentation pass across vision, synopsis, metaphysics, structure, chronology, character, world and narrative-state records.
 
 ### Changed
+
+- Chapter 4 establishes the Sourceress's emotional leverage through Calvin and leaves her possible authority over the boys unproven.
 
 - The Sourceress now receives her name when Calvin types `SORCERESS` and she inserts the `U`.
 - Calvin genuinely returns to his central workspace; the Sourceress’s authority, not her physical presence, crosses BabyLondon’s boundary.

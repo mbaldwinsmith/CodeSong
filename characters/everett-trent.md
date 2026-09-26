@@ -2,7 +2,7 @@
 
 > **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** 4 August 2026
+> **Last reviewed:** 26 September 2026
 
 ## Role in the Story
 
@@ -65,15 +65,17 @@ Everett can hear or respond to relations before they become an explicit system. 
 
 ## Open Questions
 
-- How old is Everett?
+- How does being the older brother shape his relationship with Ethan?
 - How does fear manifest differently in him than in Ethan?
 - Is he the first to perceive a relation among prayer, code and music?
 - What distinct contribution does he make to CodeSong?
 
 ## Canonical Facts
 
+- Everett is seventeen, two years older than Ethan.
 - Everett is more playful, intuitive, musically receptive and quietly funny than Ethan.
 - His Chapter 3 arrival enacts his intuitive attention through the false smile, Rahma and the need for comfort.
+- In Chapter 4 he identifies Calvin's cruel speech as compelled, though the words hurt him, and stays beside Ethan and Rahma.
 - He enters BabyLondon as a practising Christian; he does not begin there as an unbeliever.
 - His inherited prayer does not include “a sinner.”
 - He remains a distinct child, not a saintly abstraction.

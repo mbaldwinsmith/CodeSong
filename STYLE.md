@@ -2,7 +2,7 @@
 
 > **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** 4 August 2026
+> **Last reviewed:** 26 September 2026
 
 ## General Mode
 
@@ -40,6 +40,12 @@ Chapters 1–3 establish the preferred balance as funny, engaging and creepy. Pr
 The reader may infer danger before Calvin understands it, but the narration does not become omniscient. Calvin remains intelligent and perceptive. His error is an incomplete model of an unprecedented threat, not stupidity.
 
 Chapter 3 establishes the story’s horror register as violated agency rather than gore. Pain is brief, localised and subjectively real; anticipation, compelled movement, broken syntax and the Sourceress’s refusal to stop carry more weight than anatomical description. Her questions stay concrete and childlike while their sequence becomes increasingly exact. Do not turn that method into repeated torture spectacle or copy the chapter’s white-point stimulus mechanically into every later scene.
+
+## Inference and Emotional Complexity
+
+Let the reader infer emotional pain from what characters notice, suppress, say under pressure and choose to do next. Give each person a mixed and credible response: love can coexist with anger, hurt, fear and disagreement. Let the consequences of a scene accumulate through behaviour and changed relationships. Avoid plain exposition that names the feeling or explains the theme, and avoid using conflict alone as a substitute for emotional depth.
+
+Chapter 4 calibrates this through Calvin's real protective anger, speech compelled against his will, the boys' visible hurt and their continued choice to seek him. The narration must keep those different sources of action legible without resolving every uncertainty for the reader.
 
 ## Narrative Evolution
 

@@ -2,7 +2,7 @@
 
 > **Status:** In development  
 > **Authority:** Human author  
-> **Last reviewed:** 4 August 2026
+> **Last reviewed:** 26 September 2026
 
 ## Role in the Story
 
@@ -65,15 +65,17 @@ Ethan can preserve structure, verbal continuity, promises and moral distinctions
 
 ## Open Questions
 
-- How old is Ethan, and is he the elder brother?
+- How does his younger age shape his role alongside Everett?
 - How does he express anger at Calvin without abandoning him?
 - What rhythm does he give the accepted form of the Jesus Prayer?
 - What distinct contribution does he make to CodeSong?
 
 ## Canonical Facts
 
+- Ethan is fifteen, two years younger than Everett.
 - Ethan is more structured, verbal, protective and rule-oriented than Everett.
 - His Chapter 3 arrival enacts those traits through the route record, ordered explanation and physical protection of Everett.
+- In Chapter 4 he registers the hurt of Calvin's compelled words, asks whether his father can still hear him and continues working on the route.
 - He enters BabyLondon as a practising Christian; he does not begin there as an unbeliever.
 - His inherited prayer does not include “a sinner.”
 - He remains a distinct child, not a saintly abstraction.

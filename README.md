@@ -14,13 +14,14 @@ The human author retains final creative, moral and symbolic authority.
 
 Accepted opening movement and documentation.
 
-Chapters 1–3 are accepted working canon while remaining open to revision. The next creative task is to define the scene boundary after the family’s arrival.
+Chapters 1–4 are accepted working canon while remaining open to revision. Chapter 4 begins Part Two with the family's reunion, coerced speech and the Sourceress's discovery of further leverage.
 
 ## Manuscript
 
 - [Chapter 1: Anomaly](chapters/01-anomaly.md)
 - [Chapter 2: Sourceress](chapters/02-sourceress.md)
 - [Chapter 3: Audience](chapters/03-audience.md)
+- [Chapter 4: The People Who Came](chapters/04-the-people-who-came.md)
 
 ## Start Here
 
